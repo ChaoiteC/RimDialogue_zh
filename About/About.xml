@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimDialogue_zh</name>
+  <author>KarubonWaito</author>
+    <supportedVersions>
+      <li>1.6</li>
+    </supportedVersions>
+  <packageId>KarubonWaito.ChinesePack.RimDialogue</packageId>
+  <loadAfter>
+    <li>ProceduralProducts.RimDialogue</li>
+	</loadAfter>
+  <description>RimDialogue的简中翻译包，请在本体模组之后加载。
+
+    ---
+
+    RimDialogue是Jaxe优秀的Interaction Bubbles模组的扩展，但它不仅仅是显示系统生成的交互文本，而是将这些交互内容通过大语言模型（LLM）转化为真实的对话。这些对话随后会以气泡形式显示在游戏中每个角色头上。
+
+    例如，一个交互内容“Huynh和Nila聊了聊疯狂鳗鱼”，可能会变成：
+    Huynh：“Nila，我听说这片丛林的疯狂鳗鱼就像鲍曼的幽默感一样难以捉摸。”
+    Nila：“别提了，Huynh。我亲眼看见它们从水里跃出来攻击靠得太近的人。”
+
+    这个模组还能做得更多！通过添加“额外指令”，你可以影响整个殖民地的文化。例如，试试添加如下指令：
+
+    “殖民地里的每个人都迷恋大卫·哈塞尔霍夫。”
+    现在，许多对话将包含对“霍夫”以及《海滩救护队》的提及。
+
+    “Bob说话像阿尔伯特·爱因斯坦。”
+    这将导致名为“Bob”的角色谈论天体物理学。
+
+    “殖民地里的所有男性说法语。”
+    现在，男性角色会完全用法语说话。
+
+    想要充分利用RimDialogue，请查看提示页面：
+    https://rimdialogue.proceduralproducts.com/Home/Tips
+
+    托管版RimDialogue需要互联网连接。
+
+    想要获得RimDialogue青铜、白银或黄金权限，请加入我的Patreon：
+    https://patreon.com/RimDialogue
+
+    想要对你的RimDialogue体验拥有更高的控制权？运行RimDialogue本地服务器吧！
+    RimDialogue本地服务器是一个免费的开源服务器版本，你可以使用本地LLM或接入云提供商的API密钥。通过本地服务器，你可以自定义交互频率与角色数据。
+
+    你可以在这里获取RimDialogue本地服务器：
+    https://github.com/johndroper/RimDialogueServer
+
+    有bug、问题或反馈？欢迎加入RimDialogue Discord服务器：https://discord.gg/KavBmswUen
+
+    * - 免费版本的限制阈值可能会根据服务器负载和我银行账户的余额而变化。如果我开始破产，我可能不得不降低免费版本的功能。
+  </description>
+</ModMetaData>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimDialogue.ResetToDefault>重置为默认值</RimDialogue.ResetToDefault>
+  <RimDialogue.DialogueSettings>对话设置</RimDialogue.DialogueSettings>
+  <RimDialogue.DialogueMessages>对话消息</RimDialogue.DialogueMessages>
+  <RimDialogue.MaxWords>近似最大对话长度</RimDialogue.MaxWords>
+  <RimDialogue.MinWords>近似最小对话长度</RimDialogue.MinWords>
+  <RimDialogue.SpecialInstructions>指令</RimDialogue.SpecialInstructions>
+  <RimDialogue.ClientId>客户端ID（ClientId）</RimDialogue.ClientId>
+  <RimDialogue.ServerUrl>服务器URL（ServerUrl）</RimDialogue.ServerUrl>
+  <RimDialogue.MaxSpeed>对话生成的最大游戏速度</RimDialogue.MaxSpeed>
+  <RimDialogue.MaxConversationsStored>存储的最大对话数量</RimDialogue.MaxConversationsStored>
+  <RimDialogue.VerboseLogging>详细日志记录</RimDialogue.VerboseLogging>
+
+  <RimDialogue.MinDelayMinutesAll>所有类型对话之间的最小游戏分钟数</RimDialogue.MinDelayMinutesAll>
+  <RimDialogue.MinDelayMinutes>每类对话之间的最小游戏分钟数</RimDialogue.MinDelayMinutes>
+  <RimDialogue.MinTimeBetweenConversations>对话之间的最小实际秒数</RimDialogue.MinTimeBetweenConversations>
+
+  <RimDialogue.EnableCaravans>在商队上启用对话</RimDialogue.EnableCaravans>
+  <RimDialogue.OnlyColonists>只有殖民者会说话</RimDialogue.OnlyColonists>
+  <RimDialogue.ShowInteractionBubbles>显示互动气泡</RimDialogue.ShowInteractionBubbles>
+  <RimDialogue.ShowDialogueBubbles>显示对话气泡</RimDialogue.ShowDialogueBubbles>
+  <RimDialogue.ShowDialogueMessages>显示对话消息</RimDialogue.ShowDialogueMessages>
+  <RimDialogue.DialogueMessageLifetime>正常对话消息存留时间</RimDialogue.DialogueMessageLifetime>
+  <RimDialogue.MinDialogueMessageLifetime>最小对话消息存留时间</RimDialogue.MinDialogueMessageLifetime>
+  <RimDialogue.DialogueMessageWidth>对话消息宽度</RimDialogue.DialogueMessageWidth>
+
+  <RimDialogue.MessageScrollSpeed>消息滚动速度</RimDialogue.MessageScrollSpeed>
+
+  <RimDialogue.DialogueWeights>对话权重</RimDialogue.DialogueWeights>
+  <RimDialogue.TimelyEventWeight>及时事件奖励</RimDialogue.TimelyEventWeight>
+  <RimDialogue.ToggleAllChitchatWeights>切换全部</RimDialogue.ToggleAllChitchatWeights>
+  <RimDialogue.MessageChitChatWeight>消息</RimDialogue.MessageChitChatWeight>
+  <RimDialogue.GameConditionChitChatWeight>游戏条件</RimDialogue.GameConditionChitChatWeight>
+  <RimDialogue.BattleChitChatWeight>战斗</RimDialogue.BattleChitChatWeight>
+  <RimDialogue.RecentIncidentChitChatWeight>最近事件</RimDialogue.RecentIncidentChitChatWeight>
+  <RimDialogue.AlertChitChatWeight>警报</RimDialogue.AlertChitChatWeight>
+  <RimDialogue.SameIdeologyChitChatWeight>相同意识形态</RimDialogue.SameIdeologyChitChatWeight>
+  <RimDialogue.SkillsChitChatWeight>技能</RimDialogue.SkillsChitChatWeight>
+  <RimDialogue.ColonistChitChatWeight>殖民者</RimDialogue.ColonistChitChatWeight>
+  <RimDialogue.HealthChitChatWeight>健康</RimDialogue.HealthChitChatWeight>
+  <RimDialogue.ApparelChitChatWeight>服装</RimDialogue.ApparelChitChatWeight>
+  <RimDialogue.WeatherChitChatWeight>天气</RimDialogue.WeatherChitChatWeight>
+  <RimDialogue.FamilyChitChatWeight>家庭</RimDialogue.FamilyChitChatWeight>
+  <RimDialogue.NeedChitChatWeight>需求</RimDialogue.NeedChitChatWeight>
+  <RimDialogue.FactionChitChatWeight>派系</RimDialogue.FactionChitChatWeight>
+  <RimDialogue.WeaponChitChatWeight>武器</RimDialogue.WeaponChitChatWeight>
+  <RimDialogue.AppearanceChitChatWeight>外貌</RimDialogue.AppearanceChitChatWeight>
+  <RimDialogue.AnimalChitChatWeight>动物</RimDialogue.AnimalChitChatWeight>
+  <RimDialogue.RoomChitChatWeight>房间</RimDialogue.RoomChitChatWeight>
+  <RimDialogue.DeadColonistDeepTalk>死亡殖民者</RimDialogue.DeadColonistDeepTalk>
+
+  <RimDialogue.ChanceOf>概率为</RimDialogue.ChanceOf>
+  <RimDialogue.MeleeCombatQuipChance>近战战斗垃圾话</RimDialogue.MeleeCombatQuipChance>
+  <RimDialogue.RangedFireQuipChance>远程射击垃圾话</RimDialogue.RangedFireQuipChance>
+  <RimDialogue.RangedImpactQuipChance>远程攻击台词</RimDialogue.RangedImpactQuipChance>
+  <RimDialogue.DamageTakenQuipChance>受伤台词</RimDialogue.DamageTakenQuipChance>
+  <RimDialogue.KillQuipChance>击杀台词</RimDialogue.KillQuipChance>
+  <RimDialogue.ThoughtChance>想法</RimDialogue.ThoughtChance>
+
+  <RimDialogue.DefaultInstructions>撰写能反映《边缘世界》粗砺、黑色幽默且情感复杂基调的对话，扎根于混乱残酷的边缘世界殖民地生存现实。</RimDialogue.DefaultInstructions>
+  <RimDialogue.AdditionalInstructions>[pawn]的指令</RimDialogue.AdditionalInstructions>
+  <RimDialogue.Ago>前</RimDialogue.Ago>
+  <RimDialogue.Conversations>过往对话</RimDialogue.Conversations>
+  <RimDialogue.AllPawns>所有角色</RimDialogue.AllPawns>
+  <RimDialogue.Colonists>殖民者</RimDialogue.Colonists>
+
+  <RimDialogue.Unknown>未知</RimDialogue.Unknown>
+  <RimDialogue.None>无</RimDialogue.None>
+
+  <RimDialogue.AllPawnsTip>输入将在对话生成期间适用于所有角色的自定义指令。用此来定义语气、风格或行为准则（例如“保持回答简短且讽刺”或“使用古语正式交谈”）。这些指令将被添加到每个角色的提示中。</RimDialogue.AllPawnsTip>
+  <RimDialogue.ColonistsTip>输入仅适用于殖民者生成对话时的指令。用此来塑造你殖民地的文化以及殖民者在交谈中的说话方式（例如“使用乐观的语言”或“用全名称呼彼此”）。这些指令不会影响囚犯、访客或其他角色。</RimDialogue.ColonistsTip>
+  <RimDialogue.PawnTip>输入仅适用于此角色对话的自定义指令。用此来定义独特的个性特征、说话模式或怪癖（例如“总是押韵说话”或“使用军事术语”）。</RimDialogue.PawnTip>
+  <RimDialogue.Characters>字</RimDialogue.Characters>
+
+  <RimDialogue.DeepTalkCompensationFactor>DeepTalk补偿因子</RimDialogue.DeepTalkCompensationFactor>
+  <RimDialogue.FilterButtonLabel>按下此按钮以设置更多自定义提示-></RimDialogue.FilterButtonLabel>
+
+  <RimDialogue.Alert_AnimalFilth>动物{0}正在里面制造混乱</RimDialogue.Alert_AnimalFilth>
+
+
+</LanguageData>
