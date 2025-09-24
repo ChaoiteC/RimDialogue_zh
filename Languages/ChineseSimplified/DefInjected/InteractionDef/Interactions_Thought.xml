@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thought.label>思绪</Thought.label>
-  <Thought.logRulesInitiator.rulesStrings.0>r_logentry(hasOtherPawn==false)->[INITIATOR_nameDef]思考着[INITIATOR_possessive][thought_label]。</Thought.logRulesInitiator.rulesStrings.0>
-  <Thought.logRulesInitiator.rulesStrings.1>r_logentry(hasOtherPawn==false)->[INITIATOR_nameDef]默默地思考着[INITIATOR_possessive][thought_label]。</Thought.logRulesInitiator.rulesStrings.1>
-  <Thought.logRulesInitiator.rulesStrings.2>r_logentry(hasOtherPawn==true)->[INITIATOR_nameDef]思考着[OTHER_PAWN_nameDef]与[INITIATOR_possessive][thought_label]。</Thought.logRulesInitiator.rulesStrings.2>
-  <Thought.logRulesInitiator.rulesStrings.3>r_logentry(hasOtherPawn==true)->[INITIATOR_nameDef]默默地思考着[OTHER_PAWN_nameDef]与[INITIATOR_possessive][thought_label]。</Thought.logRulesInitiator.rulesStrings.3>
+  <Thought.label>thought</Thought.label>
+  <Thought.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] thought about [INITIATOR_possessive] [thought_label].</Thought.logRulesInitiator.rulesStrings.0>
+  <Thought.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] thought to themselves about [INITIATOR_possessive] [thought_label].</Thought.logRulesInitiator.rulesStrings.1>
 
 
 </LanguageData>

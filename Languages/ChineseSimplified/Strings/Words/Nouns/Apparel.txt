@@ -1,96 +1,96 @@
-T恤
-背心
-连帽衫
-开襟羊毛衫
-毛衣
-西装外套
-风衣
-海军大衣
-披风
-防风夹克
-皮夹克
-飞行员夹克
-牛仔夹克
-羽绒服
-抓绒夹克
-实验服
-厨师服
-吸烟装
-斗篷
-披风
-马甲
-晚礼服
-礼服衬衫
-鸡尾酒裙
-长裙
-迷你裙
-舞会礼服
-女式衬衫
-裙套装
-裤套装
-连体裤
-连身裤
-工作服
-浴袍
-和服
-纱笼
-羽绒背心
-绗缝夹克
-燕尾服
-套头衫
-露脐上衣
-保暖衬衫
-亨利衫
-图案T恤
-运动衫
-Polo衫
-长袖衬衫
-卡其裤
-七分裤
-运动裤
-瑜伽裤
-游泳裤
-比基尼
-连体泳衣
-萨拉凡裙
-孕妇裙
-罩衫
-裹身裙
-吊带裙
-牛仔裙
-铅笔裙
-A字裙
-百褶裙
-郁金香裙
-裙裤
-溜冰裙
-农民上衣
-短款夹克
-绑腿
-慢跑裤
-运动套装
-网球裙
-防风外套
-雨披
-毛皮大衣
-轰炸机背心
-翻领别针
-背带
-护臂
-护腿
-项圈
-领巾
-贝雷帽
-软呢帽
-遮阳帽
-毛线帽
-遮阳帽
-巴拿马草帽
-钟形帽
-登山靴
-乐福鞋
-牛津鞋
-莫卡辛鞋
-运动鞋
-人字拖
-木底鞋
+t-shirt  
+tank top  
+hoodie  
+cardigan  
+sweater  
+blazer  
+trench coat  
+peacoat  
+poncho  
+windbreaker  
+leather jacket  
+bomber jacket  
+denim jacket  
+down jacket  
+fleece jacket  
+lab coat  
+chef coat  
+smoking jacket  
+cape  
+cloak  
+waistcoat  
+dinner jacket  
+dress shirt  
+cocktail dress  
+maxi dress  
+mini dress  
+ball gown  
+blouse  
+skirt suit  
+pantsuit  
+romper  
+jumpsuit  
+coverall  
+bathrobe  
+kimono  
+sarong  
+puffer vest  
+quilted jacket  
+tuxedo  
+pullover  
+crop top  
+thermal shirt  
+henley shirt  
+graphic tee  
+sweatshirt  
+polo shirt  
+long-sleeve shirt  
+khakis  
+capri pant  
+sweatpant  
+yoga pant  
+swim trunk  
+bikini  
+one-piece swimsuit  
+sarafan  
+maternity dress  
+cover-up  
+wrap dress  
+slip dress  
+denim skirt  
+pencil skirt  
+a-line skirt  
+pleated skirt  
+tulip skirt  
+skort  
+skater skirt  
+peasant top  
+crop jacket  
+gaiters  
+joggers  
+warm-up suit  
+tennis skirt  
+anorak  
+rain poncho  
+fur coat  
+bomber vest  
+lapel pin  
+suspender  
+arm warmer  
+leg warmer  
+choker  
+neckerchief  
+beret  
+fedora  
+visor  
+beanie  
+sun hat  
+panama hat  
+cloche hat  
+hiking boot  
+loafer  
+oxford  
+moccasin 
+sneaker 
+flip-flop  
+clog

@@ -1,40 +1,40 @@
-多米诺骨牌
-跳棋
-围棋
-麻将
-蛇梯棋
-井字棋
-印度十字戏
-九子棋
-帕尔切西棋
-快艇骰子
-克里比奇牌
-拉米牌
-卡纳斯塔牌
-惠斯特牌
-曼卡拉棋
-红与黑
-单人纸牌游戏
-骗子骰子
-投掷硬币
-九柱戏
-桥牌
-尤克牌
-红心牌
-黑桃牌
-金拉米牌
-皮纳克尔牌
-老处女牌
-疯狂八点牌
-战争牌
-宾果棋
-中国跳棋
-将棋
-黑白棋
-战舰棋
-卡隆棋
-基诺棋
-番摊牌
-克拉佩特牌
-贝齐克牌
-马蹄铁游戏
+dominoes
+checkers
+go
+mahjong
+snakes and ladders
+tic-tac-toe
+pachisi
+nine men’s morris
+parcheesi
+yahtzee
+cribbage
+rummy
+canasta
+whist
+mancala
+rouge et noir
+solitaire
+liar’s dice
+pitch-and-toss
+skittles
+bridge  
+euchre  
+hearts  
+spades  
+gin rummy  
+pinochle  
+old maid  
+crazy eights  
+war  
+bingo  
+chinese checkers  
+shogi  
+reversi  
+battleship  
+carrom  
+keno  
+fan-tan  
+crapette  
+bezique  
+horse shoes

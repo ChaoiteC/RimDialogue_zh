@@ -1,98 +1,98 @@
-长剑
-武士刀
-阔剑
-弯刀
-短弯刀
-火焰剑
-双手剑
-罗马短剑
-刀
-胁差
-野太刀
-廓尔喀弯刀
-波洛刀
-波洛砍刀
-菜刀
-克里斯剑
-短剑
-匕首
-爪刀
-土耳其弯刀
-戟
-长柄刀
-薙刀
-三叉戟
-鱼叉
-野猪矛
-党羽矛
-战镐
-战斧
-胡须斧
-巴尔迪克斧
-双刃斧
-晨星锤
-连枷
-战锤
-鹤嘴锄
-木槌
-棍棒
-闷棍
-警棍
-长棍
-长棍
-警棍
-双节棍
-环刃
-流星锤
-飞刀
-飞镖
-弹弓
-投矛器
-吹箭
-捕鲸叉
-电击枪
-弩手枪
-重弩
-复合弓
-反曲弓
-火枪
-燧发手枪
-火绳枪
-喇叭口火枪
-突击步枪
-狙击步枪
-冲锋枪
-机枪
-加特林机枪
-信号枪
-古董大炮
-野战炮
-轨道炮
-火焰喷射器
-凝固汽油弹
-温压弹
-深水炸弹
-集束炸弹
-燃烧手榴弹
-闪光弹
-催泪瓦斯
-燃烧瓶
-自制管状炸弹
-火箭发射器
-巴祖卡火箭筒
-RPG
-鱼雷
-弩炮
-蝎式弩炮
-投石机
-抛石机
-攻城塔
-迫击炮弹
-攻城槌
-激光枪
-等离子步枪
-重力锤
-能量剑
-电击手套
-光子冲击炮
-电磁脉冲手雷
+longsword  
+katana  
+broadsword  
+falchion  
+cutlass  
+flamberge  
+zweihander  
+gladius  
+dao  
+wakizashi  
+nodachi  
+kukri  
+bolo  
+bolo machete  
+cleaver  
+kris  
+stiletto  
+dirk  
+karambit  
+yataghan  
+halberd  
+glaive  
+naginata  
+trident  
+harpoon  
+boar spear  
+partisan  
+war pick  
+battleaxe  
+bearded axe  
+bardiche  
+labrys  
+morning star  
+flail  
+warhammer  
+pickaxe  
+mallet  
+cudgel  
+sap  
+billy club  
+quarterstaff  
+bo staff  
+tonfa  
+nunchaku  
+chakram  
+bola  
+throwing knife  
+throwing star  
+slingshot  
+atlatl  
+blowgun  
+whaling harpoon  
+taser  
+crossbow pistol  
+arbalest  
+compound bow  
+recurve bow  
+musket  
+flintlock pistol  
+arquebus  
+blunderbuss  
+assault rifle  
+sniper rifle  
+submachine gun  
+machine gun  
+gatling gun  
+flare gun  
+antique cannon  
+field gun  
+railgun  
+flamethrower  
+napalm bomb  
+thermobaric bomb  
+depth charge  
+cluster bomb  
+incendiary grenade  
+flashbang  
+tear gas  
+molotov cocktail  
+homemade pipe bomb  
+rocket launcher  
+bazooka  
+RPG 
+torpedo  
+ballista  
+scorpion  
+catapult  
+trebuchet  
+siege tower  
+mortar shell  
+battering ram  
+laser gun  
+plasma rifle  
+gravity hammer  
+energy sword  
+shock glove  
+photon blaster  
+EMP grenade

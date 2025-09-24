@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RimDialogueTab.label>RimDialogue</RimDialogueTab.label>
-  <RimDialogueTab.description>查看小人之间的对话并设置额外指令。</RimDialogueTab.description>
+  <RimDialogueTab.description>View conversations between your pawns and set additional instructions.</RimDialogueTab.description>
 
 
 </LanguageData>

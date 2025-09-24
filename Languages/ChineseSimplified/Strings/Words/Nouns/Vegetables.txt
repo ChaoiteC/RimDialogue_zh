@@ -1,47 +1,47 @@
-土豆
-红薯
-西兰花
-羽衣甘蓝
-菠菜
-生菜
-芝麻菜
-芹菜
-茴香
-黄瓜
-萝卜
-芦笋
-韭葱
-秋葵
-瑞士甜菜
-抱子甘蓝
-羽衣甘蓝叶
-西洋菜
-菊苣
-小白菜
-青葱
-大蒜
-大葱
-姜根
-欧洲萝卜
-芜菁甘蓝
-辣根
-芹菜根
-佛手瓜
-豆薯
-芋头
-木薯
-海藻
-墨西哥酸浆
-白萝卜
-苤蓝
-荷兰豆
-甜豆
-蚕豆
-大白菜
-罗马花椰菜
-菊苣
-酸模
-马齿苋
-落葵
-塌棵菜
-水菜
+potato  
+sweet potato  
+broccoli  
+kale  
+spinach  
+lettuce  
+arugula  
+celery  
+fennel  
+cucumber  
+radish  
+asparagus  
+leek  
+okra  
+swiss chard  
+brussels sprout  
+collard green  
+watercress  
+endive  
+bok choy  
+shallot  
+garlic  
+scallion  
+ginger root  
+parsnip  
+rutabaga  
+horseradish  
+celeriac  
+chayote  
+jicama  
+taro  
+cassava  
+seaweed  
+tomatillo  
+daikon  
+kohlrabi  
+snow pea  
+sugar snap pea  
+broad bean 
+napa cabbage  
+romanesco  
+chicory  
+sorrel  
+purslane  
+malabar spinach  
+tatsoi  
+mizuna
