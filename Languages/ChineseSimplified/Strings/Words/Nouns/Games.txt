@@ -1,40 +1,40 @@
-dominoes
-checkers
-go
-mahjong
-snakes and ladders
-tic-tac-toe
-pachisi
-nine men’s morris
-parcheesi
-yahtzee
-cribbage
-rummy
-canasta
-whist
-mancala
-rouge et noir
-solitaire
-liar’s dice
-pitch-and-toss
-skittles
-bridge  
-euchre  
-hearts  
-spades  
-gin rummy  
-pinochle  
-old maid  
-crazy eights  
-war  
-bingo  
-chinese checkers  
-shogi  
-reversi  
-battleship  
-carrom  
-keno  
-fan-tan  
-crapette  
-bezique  
-horse shoes
+多米诺骨牌
+跳棋
+围棋
+麻将
+蛇梯棋
+井字棋
+印度十字戏
+九子棋
+飞行棋
+快艇骰子
+克里比奇
+拉米纸牌
+卡纳斯塔纸牌
+惠斯特纸牌
+非洲棋
+红黑轮盘
+纸牌接龙
+大话骰
+抛硬币
+保龄球戏
+桥牌
+尤克牌戏
+红心大战
+黑桃
+金拉米
+皮诺克纸牌
+老处女
+疯狂八人
+战争纸牌
+宾果
+中国跳棋
+将棋
+黑白棋
+海战棋
+卡罗姆
+基诺
+番摊
+克拉佩特
+贝济克
+掷马蹄铁

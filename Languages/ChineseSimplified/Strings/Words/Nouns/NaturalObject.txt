@@ -1,217 +1,217 @@
-feather  
-seashell  
-snail  
-spiderweb  
-ant  
-dragonfly  
-butterfly  
-caterpillar  
-egg  
-bird’s nest  
-ladybug  
-bee  
-beetle  
-crab claw  
-starfish  
-sand dollar  
-mussel shell  
-fish scale  
-snake skin  
-hair tuft  
-wasp nest  
-frog  
-tadpole  
-minnow  
-clam shell  
-slug  
-hermit crab  
-sea urchin  
-coral fragment  
-lizard shed skin  
-firefly  
-cricket  
-earthworm  
-moth  
-acorn  
-pine cone  
-moss  
-lichen  
-leaf  
-twig  
-seed pod  
-flower petal  
-grass blade  
-berry  
-fern frond  
-cattail  
-mushroom  
-tree bark  
-dandelion fluff  
-reed  
-algae  
-clover  
-ivy  
-thistle  
-poppy  
-pine needle  
-herb sprig  
-nut  
-sap drop  
-apple core  
-bean  
-sprout  
-vine tendril  
-grape  
-root fragment  
-seedling  
-cucumber flower  
-pebble  
-quartz crystal  
-sand grain  
-clay clump  
-coal chunk  
-obsidian shard  
-granite fragment  
-fossil  
-amber  
-salt crystal  
-geode piece  
-iron nugget  
-slate tile  
-chalk  
-limestone chip  
-flint  
-mica  
-gypsum  
-marble fragment  
-shell fossil  
-silver nugget  
-gold flake  
-copper ore  
-hematite  
-pumice stone  
-volcanic ash  
-pyrite  
-basalt  
-charcoal  
-amethyst shard  
-topaz piece  
-jade fragment  
-garnet chip  
-sulfur crystal  
-antler  
-scale  
-whisker  
-fin  
-tentacle  
-shell fragment  
-plume  
-mandible  
-paw print  
-beak  
-fang  
-eggshell  
-gills  
-barb  
-pincer  
-quill  
-talon  
-spine  
-slug trail  
-feather shaft  
-web strand  
-eyelash  
-molt  
-larva  
-horn fragment  
-chitin piece  
-hoofprint  
-tail hair  
-snout  
-ear flap  
-twig  
-branch  
-sapling  
-leaflet  
-bud  
-blossom  
-berry cluster  
-pine nut  
-root tip  
-vine  
-tendril  
-fern leaf  
-bark chip  
-acorn cap  
-seedling sprout  
-petal fragment  
-stem piece  
-pollen dust  
-coconut husk  
-banana leaf  
-pod husk  
-moss patch  
-lichen bloom  
-herb stalk  
-grass blade  
-palm frond  
-thistle head  
-nut shell  
-ivy strand  
-fungus cap  
-gravel  
-quartz pebble  
-shale fragment  
-sand grain  
-clay lump  
-obsidian piece  
-basalt chip  
-geode  
-flint shard  
-marble pebble  
-crystal point  
-slate  
-gem fragment  
-granite piece  
-chalk piece  
-fossilized leaf  
-coal piece  
-salt grain  
-metallic flake  
-iron deposit  
-gold vein  
-silver bead  
-copper shard  
-hematite pebble  
-mica flake  
-pumice fragment  
-amber chunk  
-amethyst piece  
-limestone chip  
-sulfur crystal  
-creek  
-stream  
-spring  
-water ripple  
-pebbled shore  
-rock pool  
-riverbed stone  
-mud patch  
-water droplet  
-dew drop  
-icicle  
-frost pattern  
-mossy stump  
-fallen log  
-tree hollow  
-cavern opening  
-burrow entrance  
-tree knot  
-wildflower patch  
-bush cluster  
-fern grove  
-algae mat  
-tide pool  
-sand dune edge  
-forest floor carpet  
-meadow tuft
+羽毛
+贝壳
+蜗牛
+蜘蛛网
+蚂蚁
+蜻蜓
+蝴蝶
+毛毛虫
+蛋
+鸟巢
+瓢虫
+蜜蜂
+甲虫
+蟹钳
+海星
+沙钱
+贻贝壳
+鱼鳞
+蛇皮
+一簇毛发
+黄蜂巢
+青蛙
+蝌蚪
+小鱼
+蛤蜊壳
+蛞蝓
+寄居蟹
+海胆
+珊瑚碎片
+蜥蜴蜕皮
+萤火虫
+蟋蟀
+蚯蚓
+飞蛾
+橡子
+松果
+苔藓
+地衣
+叶子
+细枝
+豆荚
+花瓣
+草叶
+浆果
+蕨叶
+香蒲
+蘑菇
+树皮
+蒲公英绒毛
+芦苇
+藻类
+三叶草
+常春藤
+蓟
+罂粟
+松针
+香草小枝
+坚果
+树液滴
+苹果核
+豆子
+嫩芽
+藤蔓卷须
+葡萄
+根部碎片
+幼苗
+黄瓜花
+鹅卵石
+石英晶体
+沙粒
+泥土块
+煤块
+黑曜石碎片
+花岗岩碎片
+化石
+琥珀
+盐晶
+晶洞碎片
+铁块
+板岩瓦片
+粉笔
+石灰石碎屑
+燧石
+云母
+石膏
+大理石碎片
+贝壳化石
+银块
+金片
+铜矿石
+赤铁矿
+浮石
+火山灰
+黄铁矿
+玄武岩
+木炭
+紫水晶碎片
+黄玉块
+玉石碎片
+石榴石碎屑
+硫磺晶体
+鹿角
+鳞片
+胡须
+鱼鳍
+触手
+贝壳碎片
+羽毛
+下颌骨
+爪印
+鸟喙
+尖牙
+蛋壳
+鱼鳃
+倒刺
+螯
+豪猪刺
+猛禽爪
+脊椎
+蛞蝓痕迹
+羽轴
+蛛丝
+睫毛
+蜕皮
+幼虫
+角碎片
+几丁质片
+蹄印
+尾毛
+口鼻部
+耳廓
+细枝
+树枝
+树苗
+小叶
+花蕾
+花朵
+浆果簇
+松子
+根尖
+藤蔓
+卷须
+蕨叶
+树皮碎片
+橡子帽
+幼苗芽
+花瓣碎片
+茎段
+花粉尘
+椰子壳
+香蕉叶
+豆荚壳
+苔藓斑块
+地衣花
+草本植物茎
+草叶
+棕榈叶
+蓟头
+坚果壳
+常春藤藤蔓
+真菌帽
+碎石
+石英卵石
+页岩碎片
+沙粒
+泥块
+黑曜石片
+玄武岩碎屑
+晶洞
+燧石碎片
+大理石卵石
+水晶尖
+板岩
+宝石碎片
+花岗岩块
+粉笔块
+化石叶
+煤块
+盐粒
+金属薄片
+铁矿沉积
+金脉
+银珠
+铜片
+赤铁矿卵石
+云母片
+浮石碎片
+琥珀块
+紫水晶块
+石灰石碎屑
+硫磺晶体
+小溪
+溪流
+泉水
+水波纹
+卵石岸
+岩石池
+河床石
+泥泞地
+水滴
+露珠
+冰柱
+霜花图案
+长满苔藓的树桩
+倒下的原木
+树洞
+洞穴入口
+洞穴入口
+树结
+野花丛
+灌木丛
+蕨类植物林
+藻类垫
+潮汐池
+沙丘边缘
+森林地被
+草甸草丛

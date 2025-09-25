@@ -1,201 +1,201 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeCombatQuip.label>melee combat quip</MeleeCombatQuip.label>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [said_something] after [attacking] [target].</MeleeCombatQuip.logRulesInitiator.rulesStrings.0>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.1>r_logentry->After [attacking] [target], [INITIATOR_nameDef] [said_something].</MeleeCombatQuip.logRulesInitiator.rulesStrings.1>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.2>attacking->attacking</MeleeCombatQuip.logRulesInitiator.rulesStrings.2>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.3>attacking->striking</MeleeCombatQuip.logRulesInitiator.rulesStrings.3>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.4>target->an enemy [TARGET_kind]</MeleeCombatQuip.logRulesInitiator.rulesStrings.4>
+  <MeleeCombatQuip.label>近战格斗嘲讽</MeleeCombatQuip.label>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]在[attacking][target]后[said_something]。</MeleeCombatQuip.logRulesInitiator.rulesStrings.0>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.1>r_logentry->在[attacking][target]后，[INITIATOR_nameDef][said_something]。</MeleeCombatQuip.logRulesInitiator.rulesStrings.1>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.2>attacking->攻击</MeleeCombatQuip.logRulesInitiator.rulesStrings.2>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.3>attacking->打击</MeleeCombatQuip.logRulesInitiator.rulesStrings.3>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.4>target->[TARGET_kind]敌人</MeleeCombatQuip.logRulesInitiator.rulesStrings.4>
   <MeleeCombatQuip.logRulesInitiator.rulesStrings.5>target->[TARGET_nameDef]</MeleeCombatQuip.logRulesInitiator.rulesStrings.5>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.6>said_something->said something badass</MeleeCombatQuip.logRulesInitiator.rulesStrings.6>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.7>said_something->uttered a cold threat</MeleeCombatQuip.logRulesInitiator.rulesStrings.7>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.8>said_something->muttered something menacing</MeleeCombatQuip.logRulesInitiator.rulesStrings.8>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.9>said_something->spat a taunt</MeleeCombatQuip.logRulesInitiator.rulesStrings.9>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.10>said_something->growled through gritted teeth</MeleeCombatQuip.logRulesInitiator.rulesStrings.10>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.11>said_something->delivered a one-liner</MeleeCombatQuip.logRulesInitiator.rulesStrings.11>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.12>said_something->delivered a quip</MeleeCombatQuip.logRulesInitiator.rulesStrings.12>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.13>said_something->told a joke</MeleeCombatQuip.logRulesInitiator.rulesStrings.13>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.14>said_something->said something witty</MeleeCombatQuip.logRulesInitiator.rulesStrings.14>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.15>said_something->shouted</MeleeCombatQuip.logRulesInitiator.rulesStrings.15>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.16>said_something->roared</MeleeCombatQuip.logRulesInitiator.rulesStrings.16>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.17>said_something->bellowed</MeleeCombatQuip.logRulesInitiator.rulesStrings.17>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.18>said_something->exclaimed</MeleeCombatQuip.logRulesInitiator.rulesStrings.18>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.19>said_something->growled</MeleeCombatQuip.logRulesInitiator.rulesStrings.19>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.20>said_something->snarled</MeleeCombatQuip.logRulesInitiator.rulesStrings.20>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.21>said_something->grunted</MeleeCombatQuip.logRulesInitiator.rulesStrings.21>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.22>said_something->cried out</MeleeCombatQuip.logRulesInitiator.rulesStrings.22>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.23>said_something->whooped</MeleeCombatQuip.logRulesInitiator.rulesStrings.23>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.24>said_something->boasted</MeleeCombatQuip.logRulesInitiator.rulesStrings.24>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.25>said_something->taunted</MeleeCombatQuip.logRulesInitiator.rulesStrings.25>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.26>said_something->jeered</MeleeCombatQuip.logRulesInitiator.rulesStrings.26>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.27>said_something->mocked</MeleeCombatQuip.logRulesInitiator.rulesStrings.27>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.28>said_something->snickered</MeleeCombatQuip.logRulesInitiator.rulesStrings.28>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.29>said_something->scoffed</MeleeCombatQuip.logRulesInitiator.rulesStrings.29>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.30>said_something->chuckled</MeleeCombatQuip.logRulesInitiator.rulesStrings.30>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.31>said_something->yelled</MeleeCombatQuip.logRulesInitiator.rulesStrings.31>
-  <MeleeCombatQuip.logRulesInitiator.rulesStrings.32>said_something->wisecracked</MeleeCombatQuip.logRulesInitiator.rulesStrings.32>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.6>said_something->说了些很酷的话</MeleeCombatQuip.logRulesInitiator.rulesStrings.6>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.7>said_something->发出冰冷的威胁</MeleeCombatQuip.logRulesInitiator.rulesStrings.7>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.8>said_something->低声说了些威胁性的话</MeleeCombatQuip.logRulesInitiator.rulesStrings.8>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.9>said_something->吐出一句嘲讽</MeleeCombatQuip.logRulesInitiator.rulesStrings.9>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.10>said_something->咬牙切齿地咆哮</MeleeCombatQuip.logRulesInitiator.rulesStrings.10>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.11>said_something->说了一句妙语</MeleeCombatQuip.logRulesInitiator.rulesStrings.11>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.12>said_something->说了一句俏皮话</MeleeCombatQuip.logRulesInitiator.rulesStrings.12>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.13>said_something->讲了个笑话</MeleeCombatQuip.logRulesInitiator.rulesStrings.13>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.14>said_something->说了些机智的话</MeleeCombatQuip.logRulesInitiator.rulesStrings.14>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.15>said_something->喊道</MeleeCombatQuip.logRulesInitiator.rulesStrings.15>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.16>said_something->咆哮道</MeleeCombatQuip.logRulesInitiator.rulesStrings.16>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.17>said_something->吼道</MeleeCombatQuip.logRulesInitiator.rulesStrings.17>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.18>said_something->惊呼道</MeleeCombatQuip.logRulesInitiator.rulesStrings.18>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.19>said_something->咆哮道</MeleeCombatQuip.logRulesInitiator.rulesStrings.19>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.20>said_something->怒吼道</MeleeCombatQuip.logRulesInitiator.rulesStrings.20>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.21>said_something->咕哝道</MeleeCombatQuip.logRulesInitiator.rulesStrings.21>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.22>said_something->喊叫道</MeleeCombatQuip.logRulesInitiator.rulesStrings.22>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.23>said_something->欢呼道</MeleeCombatQuip.logRulesInitiator.rulesStrings.23>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.24>said_something->吹嘘道</MeleeCombatQuip.logRulesInitiator.rulesStrings.24>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.25>said_something->嘲讽道</MeleeCombatQuip.logRulesInitiator.rulesStrings.25>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.26>said_something->嘲笑道</MeleeCombatQuip.logRulesInitiator.rulesStrings.26>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.27>said_something->嘲弄道</MeleeCombatQuip.logRulesInitiator.rulesStrings.27>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.28>said_something->窃笑道</MeleeCombatQuip.logRulesInitiator.rulesStrings.28>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.29>said_something->嗤笑道</MeleeCombatQuip.logRulesInitiator.rulesStrings.29>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.30>said_something->轻笑道</MeleeCombatQuip.logRulesInitiator.rulesStrings.30>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.31>said_something->大喊道</MeleeCombatQuip.logRulesInitiator.rulesStrings.31>
+  <MeleeCombatQuip.logRulesInitiator.rulesStrings.32>said_something->说了句俏皮话</MeleeCombatQuip.logRulesInitiator.rulesStrings.32>
 
-  <RangedFireQuip.label>ranged fire quip</RangedFireQuip.label>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.0>r_logentry(weapon_exists==false)->[INITIATOR_nameDef] [said_something] after [attacking] [target].</RangedFireQuip.logRulesInitiator.rulesStrings.0>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.1>r_logentry(weapon_exists==false)->After [attacking] [target], [INITIATOR_nameDef] [said_something].</RangedFireQuip.logRulesInitiator.rulesStrings.1>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.2>r_logentry(weapon_exists==true)->[INITIATOR_nameDef] [said_something] after [attacking] [target] with [INITIATOR_possessive] [WEAPON_label].</RangedFireQuip.logRulesInitiator.rulesStrings.2>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.3>r_logentry(weapon_exists==true)->After [attacking] [target] with [INITIATOR_possessive] [WEAPON_label], [INITIATOR_nameDef] [said_something].</RangedFireQuip.logRulesInitiator.rulesStrings.3>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.4>attacking->attacking</RangedFireQuip.logRulesInitiator.rulesStrings.4>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.5>attacking->shooting at</RangedFireQuip.logRulesInitiator.rulesStrings.5>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.6>attacking->taking a shot at</RangedFireQuip.logRulesInitiator.rulesStrings.6>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.7>attacking->firing at</RangedFireQuip.logRulesInitiator.rulesStrings.7>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.8>attacking->unloading on</RangedFireQuip.logRulesInitiator.rulesStrings.8>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.9>attacking->cracking off a shot at</RangedFireQuip.logRulesInitiator.rulesStrings.9>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.10>attacking->letting off a round at</RangedFireQuip.logRulesInitiator.rulesStrings.10>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.11>target->an enemy [TARGET_kind]</RangedFireQuip.logRulesInitiator.rulesStrings.11>
+  <RangedFireQuip.label>远程射击嘲讽</RangedFireQuip.label>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.0>r_logentry(weapon_exists==false)->[INITIATOR_nameDef]在向[target][attacking]后[said_something]。</RangedFireQuip.logRulesInitiator.rulesStrings.0>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.1>r_logentry(weapon_exists==false)->在向[target][attacking]后，[INITIATOR_nameDef][said_something]。</RangedFireQuip.logRulesInitiator.rulesStrings.1>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.2>r_logentry(weapon_exists==true)->[INITIATOR_nameDef]在用[INITIATOR_possessive]的[WEAPON_label]向[target][attacking]后[said_something]。</RangedFireQuip.logRulesInitiator.rulesStrings.2>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.3>r_logentry(weapon_exists==true)->在用[INITIATOR_possessive][WEAPON_label]向[target][attacking]后，[INITIATOR_nameDef][said_something]。</RangedFireQuip.logRulesInitiator.rulesStrings.3>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.4>attacking->攻击</RangedFireQuip.logRulesInitiator.rulesStrings.4>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.5>attacking->射击</RangedFireQuip.logRulesInitiator.rulesStrings.5>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.6>attacking->开枪射击</RangedFireQuip.logRulesInitiator.rulesStrings.6>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.7>attacking->开火射击</RangedFireQuip.logRulesInitiator.rulesStrings.7>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.8>attacking->倾泻火力</RangedFireQuip.logRulesInitiator.rulesStrings.8>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.9>attacking->猛地开了一枪</RangedFireQuip.logRulesInitiator.rulesStrings.9>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.10>attacking->放了一枪</RangedFireQuip.logRulesInitiator.rulesStrings.10>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.11>target->[TARGET_kind]敌人</RangedFireQuip.logRulesInitiator.rulesStrings.11>
   <RangedFireQuip.logRulesInitiator.rulesStrings.12>target->[TARGET_nameDef]</RangedFireQuip.logRulesInitiator.rulesStrings.12>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.13>said_something->quipped</RangedFireQuip.logRulesInitiator.rulesStrings.13>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.14>said_something->said something badass</RangedFireQuip.logRulesInitiator.rulesStrings.14>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.15>said_something->uttered a cold threat</RangedFireQuip.logRulesInitiator.rulesStrings.15>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.16>said_something->muttered something menacing</RangedFireQuip.logRulesInitiator.rulesStrings.16>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.17>said_something->spat a taunt</RangedFireQuip.logRulesInitiator.rulesStrings.17>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.18>said_something->growled through gritted teeth</RangedFireQuip.logRulesInitiator.rulesStrings.18>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.19>said_something->delivered a one-liner</RangedFireQuip.logRulesInitiator.rulesStrings.19>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.20>said_something->delivered a quip</RangedFireQuip.logRulesInitiator.rulesStrings.20>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.21>said_something->told a joke</RangedFireQuip.logRulesInitiator.rulesStrings.21>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.22>said_something->said something witty</RangedFireQuip.logRulesInitiator.rulesStrings.22>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.23>said_something->shouted</RangedFireQuip.logRulesInitiator.rulesStrings.23>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.24>said_something->roared</RangedFireQuip.logRulesInitiator.rulesStrings.24>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.25>said_something->bellowed</RangedFireQuip.logRulesInitiator.rulesStrings.25>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.26>said_something->exclaimed</RangedFireQuip.logRulesInitiator.rulesStrings.26>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.27>said_something->growled</RangedFireQuip.logRulesInitiator.rulesStrings.27>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.28>said_something->snarled</RangedFireQuip.logRulesInitiator.rulesStrings.28>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.29>said_something->grunted</RangedFireQuip.logRulesInitiator.rulesStrings.29>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.30>said_something->cried out</RangedFireQuip.logRulesInitiator.rulesStrings.30>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.31>said_something->whooped</RangedFireQuip.logRulesInitiator.rulesStrings.31>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.32>said_something->boasted</RangedFireQuip.logRulesInitiator.rulesStrings.32>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.33>said_something->taunted</RangedFireQuip.logRulesInitiator.rulesStrings.33>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.34>said_something->jeered</RangedFireQuip.logRulesInitiator.rulesStrings.34>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.35>said_something->mocked</RangedFireQuip.logRulesInitiator.rulesStrings.35>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.36>said_something->snickered</RangedFireQuip.logRulesInitiator.rulesStrings.36>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.37>said_something->scoffed</RangedFireQuip.logRulesInitiator.rulesStrings.37>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.38>said_something->chuckled</RangedFireQuip.logRulesInitiator.rulesStrings.38>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.39>said_something->yelled</RangedFireQuip.logRulesInitiator.rulesStrings.39>
-  <RangedFireQuip.logRulesInitiator.rulesStrings.40>said_something->wisecracked</RangedFireQuip.logRulesInitiator.rulesStrings.40>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.13>said_something->俏皮地说</RangedFireQuip.logRulesInitiator.rulesStrings.13>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.14>said_something->说了些很酷的话</RangedFireQuip.logRulesInitiator.rulesStrings.14>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.15>said_something->发出冰冷的威胁</RangedFireQuip.logRulesInitiator.rulesStrings.15>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.16>said_something->低声说了些威胁性的话</RangedFireQuip.logRulesInitiator.rulesStrings.16>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.17>said_something->吐出一句嘲讽</RangedFireQuip.logRulesInitiator.rulesStrings.17>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.18>said_something->咬牙切齿地咆哮</RangedFireQuip.logRulesInitiator.rulesStrings.18>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.19>said_something->说了一句妙语</RangedFireQuip.logRulesInitiator.rulesStrings.19>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.20>said_something->说了一句俏皮话</RangedFireQuip.logRulesInitiator.rulesStrings.20>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.21>said_something->讲了个笑话</RangedFireQuip.logRulesInitiator.rulesStrings.21>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.22>said_something->说了些机智的话</RangedFireQuip.logRulesInitiator.rulesStrings.22>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.23>said_something->喊道</RangedFireQuip.logRulesInitiator.rulesStrings.23>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.24>said_something->咆哮道</RangedFireQuip.logRulesInitiator.rulesStrings.24>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.25>said_something->吼道</RangedFireQuip.logRulesInitiator.rulesStrings.25>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.26>said_something->惊呼道</RangedFireQuip.logRulesInitiator.rulesStrings.26>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.27>said_something->咆哮道</RangedFireQuip.logRulesInitiator.rulesStrings.27>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.28>said_something->怒吼道</RangedFireQuip.logRulesInitiator.rulesStrings.28>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.29>said_something->咕哝道</RangedFireQuip.logRulesInitiator.rulesStrings.29>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.30>said_something->喊叫道</RangedFireQuip.logRulesInitiator.rulesStrings.30>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.31>said_something->欢呼道</RangedFireQuip.logRulesInitiator.rulesStrings.31>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.32>said_something->吹嘘道</RangedFireQuip.logRulesInitiator.rulesStrings.32>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.33>said_something->嘲讽道</RangedFireQuip.logRulesInitiator.rulesStrings.33>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.34>said_something->嘲笑道</RangedFireQuip.logRulesInitiator.rulesStrings.34>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.35>said_something->嘲弄道</RangedFireQuip.logRulesInitiator.rulesStrings.35>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.36>said_something->窃笑道</RangedFireQuip.logRulesInitiator.rulesStrings.36>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.37>said_something->嗤笑道</RangedFireQuip.logRulesInitiator.rulesStrings.37>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.38>said_something->轻笑道</RangedFireQuip.logRulesInitiator.rulesStrings.38>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.39>said_something->大喊道</RangedFireQuip.logRulesInitiator.rulesStrings.39>
+  <RangedFireQuip.logRulesInitiator.rulesStrings.40>said_something->说了句俏皮话</RangedFireQuip.logRulesInitiator.rulesStrings.40>
 
-  <RangedImpactQuip.label>ranged impact quip</RangedImpactQuip.label>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0, weapon_exists==false)->[INITIATOR_nameDef] [said_something] after hitting [target].</RangedImpactQuip.logRulesInitiator.rulesStrings.0>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->[INITIATOR_nameDef] [said_something] after hitting [target] in the [damaged_targets].</RangedImpactQuip.logRulesInitiator.rulesStrings.1>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0, weapon_exists==false)->After hitting [target], [INITIATOR_nameDef] [said_something].</RangedImpactQuip.logRulesInitiator.rulesStrings.2>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->After hitting [target] in the [damaged_targets], [INITIATOR_nameDef] [said_something].</RangedImpactQuip.logRulesInitiator.rulesStrings.3>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.4>r_logentry(target_part_damaged_count==0, weapon_exists==true)->[INITIATOR_nameDef] [said_something] after hitting [target] with [INITIATOR_possessive] [WEAPON_label].</RangedImpactQuip.logRulesInitiator.rulesStrings.4>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.5>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->[INITIATOR_nameDef] [said_something] after hitting [target] in the [damaged_targets] with [INITIATOR_possessive] [WEAPON_label].</RangedImpactQuip.logRulesInitiator.rulesStrings.5>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.6>r_logentry(target_part_damaged_count==0, weapon_exists==true)->After hitting [target] with [INITIATOR_possessive] [WEAPON_label], [INITIATOR_nameDef] [said_something].</RangedImpactQuip.logRulesInitiator.rulesStrings.6>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.7>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->After hitting [target] in the [damaged_targets] with [INITIATOR_possessive] [WEAPON_label], [INITIATOR_nameDef] [said_something].</RangedImpactQuip.logRulesInitiator.rulesStrings.7>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.8>target(TARGET_isanimal==false)->an enemy [ORIGINAL_TARGET_kind]</RangedImpactQuip.logRulesInitiator.rulesStrings.8>
+  <RangedImpactQuip.label>远程命中嘲讽</RangedImpactQuip.label>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0, weapon_exists==false)->[INITIATOR_nameDef]在击中[target]后[said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.0>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->[INITIATOR_nameDef]在击中[target]的[damaged_targets]后[said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.1>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0, weapon_exists==false)->在击中[target]后，[INITIATOR_nameDef][said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.2>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->在击中[target]的[damaged_targets]后，[INITIATOR_nameDef][said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.3>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.4>r_logentry(target_part_damaged_count==0, weapon_exists==true)->[INITIATOR_nameDef]在用[INITIATOR_possessive][WEAPON_label]击中[target]后[said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.4>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.5>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->[INITIATOR_nameDef]在用[INITIATOR_possessive][WEAPON_label]击中[target]的[damaged_targets]后[said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.5>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.6>r_logentry(target_part_damaged_count==0, weapon_exists==true)->用[INITIATOR_possessive]的[WEAPON_label]击中[target]后，[INITIATOR_nameDef][said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.6>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.7>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->用[INITIATOR_possessive]的[WEAPON_label]击中[target]的[damaged_targets]后，[INITIATOR_nameDef][said_something]。</RangedImpactQuip.logRulesInitiator.rulesStrings.7>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.8>target(TARGET_isanimal==false)->一个敌方[ORIGINAL_TARGET_kind]</RangedImpactQuip.logRulesInitiator.rulesStrings.8>
   <RangedImpactQuip.logRulesInitiator.rulesStrings.9>target->[ORIGINAL_TARGET_nameDef]</RangedImpactQuip.logRulesInitiator.rulesStrings.9>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.10>said_something->quipped</RangedImpactQuip.logRulesInitiator.rulesStrings.10>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.11>said_something->said something badass</RangedImpactQuip.logRulesInitiator.rulesStrings.11>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.12>said_something->uttered a cold threat</RangedImpactQuip.logRulesInitiator.rulesStrings.12>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.13>said_something->muttered something menacing</RangedImpactQuip.logRulesInitiator.rulesStrings.13>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.14>said_something->spat a taunt</RangedImpactQuip.logRulesInitiator.rulesStrings.14>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.15>said_something->growled through gritted teeth</RangedImpactQuip.logRulesInitiator.rulesStrings.15>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.16>said_something->delivered a one-liner</RangedImpactQuip.logRulesInitiator.rulesStrings.16>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.17>said_something->delivered a quip</RangedImpactQuip.logRulesInitiator.rulesStrings.17>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.18>said_something->told a joke</RangedImpactQuip.logRulesInitiator.rulesStrings.18>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.19>said_something->said something witty</RangedImpactQuip.logRulesInitiator.rulesStrings.19>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.20>said_something->shouted</RangedImpactQuip.logRulesInitiator.rulesStrings.20>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.21>said_something->roared</RangedImpactQuip.logRulesInitiator.rulesStrings.21>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.22>said_something->bellowed</RangedImpactQuip.logRulesInitiator.rulesStrings.22>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.23>said_something->exclaimed</RangedImpactQuip.logRulesInitiator.rulesStrings.23>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.24>said_something->growled</RangedImpactQuip.logRulesInitiator.rulesStrings.24>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.25>said_something->snarled</RangedImpactQuip.logRulesInitiator.rulesStrings.25>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.26>said_something->grunted</RangedImpactQuip.logRulesInitiator.rulesStrings.26>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.27>said_something->cried out</RangedImpactQuip.logRulesInitiator.rulesStrings.27>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.28>said_something->whooped</RangedImpactQuip.logRulesInitiator.rulesStrings.28>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.29>said_something->boasted</RangedImpactQuip.logRulesInitiator.rulesStrings.29>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.30>said_something->taunted</RangedImpactQuip.logRulesInitiator.rulesStrings.30>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.31>said_something->jeered</RangedImpactQuip.logRulesInitiator.rulesStrings.31>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.32>said_something->mocked</RangedImpactQuip.logRulesInitiator.rulesStrings.32>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.33>said_something->snickered</RangedImpactQuip.logRulesInitiator.rulesStrings.33>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.34>said_something->scoffed</RangedImpactQuip.logRulesInitiator.rulesStrings.34>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.35>said_something->chuckled</RangedImpactQuip.logRulesInitiator.rulesStrings.35>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.36>said_something->yelled</RangedImpactQuip.logRulesInitiator.rulesStrings.36>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.37>said_something->wisecracked</RangedImpactQuip.logRulesInitiator.rulesStrings.37>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.10>said_something->俏皮地说</RangedImpactQuip.logRulesInitiator.rulesStrings.10>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.11>said_something->说了些很酷的话</RangedImpactQuip.logRulesInitiator.rulesStrings.11>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.12>said_something->发出冰冷的威胁</RangedImpactQuip.logRulesInitiator.rulesStrings.12>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.13>said_something->低声说了些威胁性的话</RangedImpactQuip.logRulesInitiator.rulesStrings.13>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.14>said_something->吐出一句嘲讽</RangedImpactQuip.logRulesInitiator.rulesStrings.14>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.15>said_something->咬牙切齿地咆哮</RangedImpactQuip.logRulesInitiator.rulesStrings.15>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.16>said_something->说了一句妙语</RangedImpactQuip.logRulesInitiator.rulesStrings.16>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.17>said_something->说了一句俏皮话</RangedImpactQuip.logRulesInitiator.rulesStrings.17>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.18>said_something->讲了个笑话</RangedImpactQuip.logRulesInitiator.rulesStrings.18>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.19>said_something->说了些机智的话</RangedImpactQuip.logRulesInitiator.rulesStrings.19>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.20>said_something->喊道</RangedImpactQuip.logRulesInitiator.rulesStrings.20>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.21>said_something->咆哮道</RangedImpactQuip.logRulesInitiator.rulesStrings.21>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.22>said_something->吼道</RangedImpactQuip.logRulesInitiator.rulesStrings.22>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.23>said_something->惊呼道</RangedImpactQuip.logRulesInitiator.rulesStrings.23>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.24>said_something->咆哮道</RangedImpactQuip.logRulesInitiator.rulesStrings.24>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.25>said_something->怒吼道</RangedImpactQuip.logRulesInitiator.rulesStrings.25>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.26>said_something->咕哝道</RangedImpactQuip.logRulesInitiator.rulesStrings.26>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.27>said_something->喊叫道</RangedImpactQuip.logRulesInitiator.rulesStrings.27>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.28>said_something->欢呼道</RangedImpactQuip.logRulesInitiator.rulesStrings.28>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.29>said_something->吹嘘道</RangedImpactQuip.logRulesInitiator.rulesStrings.29>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.30>said_something->嘲讽道</RangedImpactQuip.logRulesInitiator.rulesStrings.30>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.31>said_something->嘲笑道</RangedImpactQuip.logRulesInitiator.rulesStrings.31>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.32>said_something->嘲弄道</RangedImpactQuip.logRulesInitiator.rulesStrings.32>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.33>said_something->窃笑道</RangedImpactQuip.logRulesInitiator.rulesStrings.33>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.34>said_something->嗤笑道</RangedImpactQuip.logRulesInitiator.rulesStrings.34>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.35>said_something->轻笑道</RangedImpactQuip.logRulesInitiator.rulesStrings.35>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.36>said_something->大喊道</RangedImpactQuip.logRulesInitiator.rulesStrings.36>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.37>said_something->说了句俏皮话</RangedImpactQuip.logRulesInitiator.rulesStrings.37>
   <RangedImpactQuip.logRulesInitiator.rulesStrings.38>damaged_targets(target_part_damaged_count==1)->[target_part_damaged0_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.38>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.39>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label] and [target_part_damaged1_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.39>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.40>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label], [target_part_damaged1_label], and [target_part_damaged2_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.40>
-  <RangedImpactQuip.logRulesInitiator.rulesStrings.41>damaged_targets->[target_part_damaged0_label], [target_part_damaged1_label], [target_part_damaged2_label], and [target_part_damaged3_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.41>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.39>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label]和[target_part_damaged1_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.39>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.40>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label]、[target_part_damaged1_label]和[target_part_damaged2_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.40>
+  <RangedImpactQuip.logRulesInitiator.rulesStrings.41>damaged_targets->[target_part_damaged0_label]、[target_part_damaged1_label]、[target_part_damaged2_label]和[target_part_damaged3_label]</RangedImpactQuip.logRulesInitiator.rulesStrings.41>
 
-  <DamageTakenQuip.label>ranged impact quip</DamageTakenQuip.label>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0)->[INITIATOR_nameDef] [said_something] after hitting [target].</DamageTakenQuip.logRulesInitiator.rulesStrings.0>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1)->[INITIATOR_nameDef] [said_something] after hitting [target] in the [damaged_targets].</DamageTakenQuip.logRulesInitiator.rulesStrings.1>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0)->After hitting [target], [INITIATOR_nameDef] [said_something].</DamageTakenQuip.logRulesInitiator.rulesStrings.2>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1)->After hitting [target] in the [damaged_targets], [INITIATOR_nameDef] [said_something].</DamageTakenQuip.logRulesInitiator.rulesStrings.3>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.4>target->an enemy [TARGET_kind]</DamageTakenQuip.logRulesInitiator.rulesStrings.4>
+  <DamageTakenQuip.label>远程命中嘲讽</DamageTakenQuip.label>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0)->[INITIATOR_nameDef]击中[target]后[said_something]。</DamageTakenQuip.logRulesInitiator.rulesStrings.0>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1)->[INITIATOR_nameDef]击中[target]的[damaged_targets]后[said_something]。</DamageTakenQuip.logRulesInitiator.rulesStrings.1>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0)->击中[target]后，[INITIATOR_nameDef][said_something]。</DamageTakenQuip.logRulesInitiator.rulesStrings.2>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1)->击中[target]的[damaged_targets]后，[INITIATOR_nameDef][said_something]。</DamageTakenQuip.logRulesInitiator.rulesStrings.3>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.4>target->[TARGET_kind]敌人</DamageTakenQuip.logRulesInitiator.rulesStrings.4>
   <DamageTakenQuip.logRulesInitiator.rulesStrings.5>target->[TARGET_nameDef]</DamageTakenQuip.logRulesInitiator.rulesStrings.5>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.6>said_something->quipped</DamageTakenQuip.logRulesInitiator.rulesStrings.6>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.7>said_something->said something badass</DamageTakenQuip.logRulesInitiator.rulesStrings.7>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.8>said_something->delivered a quip</DamageTakenQuip.logRulesInitiator.rulesStrings.8>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.9>said_something->told a joke</DamageTakenQuip.logRulesInitiator.rulesStrings.9>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.10>said_something->said something witty</DamageTakenQuip.logRulesInitiator.rulesStrings.10>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.11>said_something->shouted</DamageTakenQuip.logRulesInitiator.rulesStrings.11>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.12>said_something->roared</DamageTakenQuip.logRulesInitiator.rulesStrings.12>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.13>said_something->bellowed</DamageTakenQuip.logRulesInitiator.rulesStrings.13>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.14>said_something->exclaimed</DamageTakenQuip.logRulesInitiator.rulesStrings.14>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.15>said_something->growled</DamageTakenQuip.logRulesInitiator.rulesStrings.15>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.16>said_something->snarled</DamageTakenQuip.logRulesInitiator.rulesStrings.16>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.17>said_something->grunted</DamageTakenQuip.logRulesInitiator.rulesStrings.17>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.18>said_something->cried out</DamageTakenQuip.logRulesInitiator.rulesStrings.18>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.19>said_something->whooped</DamageTakenQuip.logRulesInitiator.rulesStrings.19>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.20>said_something->boasted</DamageTakenQuip.logRulesInitiator.rulesStrings.20>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.21>said_something->taunted</DamageTakenQuip.logRulesInitiator.rulesStrings.21>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.22>said_something->jeered</DamageTakenQuip.logRulesInitiator.rulesStrings.22>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.23>said_something->mocked</DamageTakenQuip.logRulesInitiator.rulesStrings.23>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.24>said_something->snickered</DamageTakenQuip.logRulesInitiator.rulesStrings.24>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.25>said_something->scoffed</DamageTakenQuip.logRulesInitiator.rulesStrings.25>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.26>said_something->chuckled</DamageTakenQuip.logRulesInitiator.rulesStrings.26>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.27>said_something->yelled</DamageTakenQuip.logRulesInitiator.rulesStrings.27>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.28>said_something->wisecracked</DamageTakenQuip.logRulesInitiator.rulesStrings.28>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.6>said_something->俏皮地说</DamageTakenQuip.logRulesInitiator.rulesStrings.6>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.7>said_something->说了些很酷的话</DamageTakenQuip.logRulesInitiator.rulesStrings.7>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.8>said_something->说了一句俏皮话</DamageTakenQuip.logRulesInitiator.rulesStrings.8>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.9>said_something->讲了个笑话</DamageTakenQuip.logRulesInitiator.rulesStrings.9>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.10>said_something->说了些机智的话</DamageTakenQuip.logRulesInitiator.rulesStrings.10>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.11>said_something->喊道</DamageTakenQuip.logRulesInitiator.rulesStrings.11>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.12>said_something->咆哮道</DamageTakenQuip.logRulesInitiator.rulesStrings.12>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.13>said_something->吼道</DamageTakenQuip.logRulesInitiator.rulesStrings.13>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.14>said_something->惊呼道</DamageTakenQuip.logRulesInitiator.rulesStrings.14>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.15>said_something->咆哮道</DamageTakenQuip.logRulesInitiator.rulesStrings.15>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.16>said_something->怒吼道</DamageTakenQuip.logRulesInitiator.rulesStrings.16>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.17>said_something->咕哝道</DamageTakenQuip.logRulesInitiator.rulesStrings.17>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.18>said_something->喊叫道</DamageTakenQuip.logRulesInitiator.rulesStrings.18>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.19>said_something->欢呼道</DamageTakenQuip.logRulesInitiator.rulesStrings.19>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.20>said_something->吹嘘道</DamageTakenQuip.logRulesInitiator.rulesStrings.20>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.21>said_something->嘲讽道</DamageTakenQuip.logRulesInitiator.rulesStrings.21>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.22>said_something->嘲笑道</DamageTakenQuip.logRulesInitiator.rulesStrings.22>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.23>said_something->嘲弄道</DamageTakenQuip.logRulesInitiator.rulesStrings.23>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.24>said_something->窃笑道</DamageTakenQuip.logRulesInitiator.rulesStrings.24>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.25>said_something->嗤笑道</DamageTakenQuip.logRulesInitiator.rulesStrings.25>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.26>said_something->轻笑道</DamageTakenQuip.logRulesInitiator.rulesStrings.26>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.27>said_something->大喊道</DamageTakenQuip.logRulesInitiator.rulesStrings.27>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.28>said_something->说了句俏皮话</DamageTakenQuip.logRulesInitiator.rulesStrings.28>
   <DamageTakenQuip.logRulesInitiator.rulesStrings.29>damaged_targets(target_part_damaged_count==1)->[target_part_damaged0_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.29>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.30>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label] and [target_part_damaged1_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.30>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.31>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label], [target_part_damaged1_label], and [target_part_damaged2_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.31>
-  <DamageTakenQuip.logRulesInitiator.rulesStrings.32>damaged_targets->[target_part_damaged0_label], [target_part_damaged1_label], [target_part_damaged2_label], and [target_part_damaged3_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.32>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.30>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label]和[target_part_damaged1_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.30>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.31>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label]、[target_part_damaged1_label]和[target_part_damaged2_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.31>
+  <DamageTakenQuip.logRulesInitiator.rulesStrings.32>damaged_targets->[target_part_damaged0_label]、[target_part_damaged1_label]、[target_part_damaged2_label]和[target_part_damaged3_label]</DamageTakenQuip.logRulesInitiator.rulesStrings.32>
 
-  <ImHit.label>I'm hit!</ImHit.label>
-  <ImHit.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0, weapon_exists==false)->[INITIATOR_nameDef] [cried_out] in [pain] after being hit by [TARGET_nameDef].</ImHit.logRulesInitiator.rulesStrings.0>
-  <ImHit.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->[INITIATOR_nameDef] [cried_out] in [pain] after being hit in the [damaged_targets] by [TARGET_nameDef].</ImHit.logRulesInitiator.rulesStrings.1>
-  <ImHit.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0, weapon_exists==false)->After being hit by [TARGET_nameDef], [INITIATOR_nameDef] [said_something].</ImHit.logRulesInitiator.rulesStrings.2>
-  <ImHit.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->After being hit in the [damaged_targets] by [TARGET_nameDef], [INITIATOR_nameDef] [said_something].</ImHit.logRulesInitiator.rulesStrings.3>
-  <ImHit.logRulesInitiator.rulesStrings.4>r_logentry(target_part_damaged_count==0, weapon_exists==true)->[INITIATOR_nameDef] [cried_out] in [pain] after being hit with [TARGET_nameDef]'s [WEAPON_label].</ImHit.logRulesInitiator.rulesStrings.4>
-  <ImHit.logRulesInitiator.rulesStrings.5>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->[INITIATOR_nameDef] [cried_out] in [pain] after being hit in the [damaged_targets] with [TARGET_nameDef]'s [WEAPON_label].</ImHit.logRulesInitiator.rulesStrings.5>
-  <ImHit.logRulesInitiator.rulesStrings.6>r_logentry(target_part_damaged_count==0, weapon_exists==true)->After being hit with [TARGET_nameDef]'s [WEAPON_label], [INITIATOR_nameDef] [said_something].</ImHit.logRulesInitiator.rulesStrings.6>
-  <ImHit.logRulesInitiator.rulesStrings.7>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->After being hit in the [damaged_targets] with [TARGET_nameDef]'s [WEAPON_label], [INITIATOR_nameDef] [said_something].</ImHit.logRulesInitiator.rulesStrings.7>
-  <ImHit.logRulesInitiator.rulesStrings.8>cried_out->cried out</ImHit.logRulesInitiator.rulesStrings.8>
-  <ImHit.logRulesInitiator.rulesStrings.9>cried_out->shouted</ImHit.logRulesInitiator.rulesStrings.9>
-  <ImHit.logRulesInitiator.rulesStrings.10>cried_out->yelled</ImHit.logRulesInitiator.rulesStrings.10>
-  <ImHit.logRulesInitiator.rulesStrings.11>cried_out->screamed</ImHit.logRulesInitiator.rulesStrings.11>
-  <ImHit.logRulesInitiator.rulesStrings.12>cried_out->muttered</ImHit.logRulesInitiator.rulesStrings.12>
-  <ImHit.logRulesInitiator.rulesStrings.13>cried_out->gasped</ImHit.logRulesInitiator.rulesStrings.13>
-  <ImHit.logRulesInitiator.rulesStrings.14>cried_out->grunted</ImHit.logRulesInitiator.rulesStrings.14>
-  <ImHit.logRulesInitiator.rulesStrings.15>cried_out->snarled</ImHit.logRulesInitiator.rulesStrings.15>
-  <ImHit.logRulesInitiator.rulesStrings.16>cried_out->moaned</ImHit.logRulesInitiator.rulesStrings.16>
-  <ImHit.logRulesInitiator.rulesStrings.17>cried_out->howled</ImHit.logRulesInitiator.rulesStrings.17>
-  <ImHit.logRulesInitiator.rulesStrings.18>cried_out->shrieked</ImHit.logRulesInitiator.rulesStrings.18>
-  <ImHit.logRulesInitiator.rulesStrings.19>cried_out->hissed</ImHit.logRulesInitiator.rulesStrings.19>
-  <ImHit.logRulesInitiator.rulesStrings.20>cried_out->cursed</ImHit.logRulesInitiator.rulesStrings.20>
-  <ImHit.logRulesInitiator.rulesStrings.21>cried_out->wailed</ImHit.logRulesInitiator.rulesStrings.21>
-  <ImHit.logRulesInitiator.rulesStrings.22>pain->pain</ImHit.logRulesInitiator.rulesStrings.22>
-  <ImHit.logRulesInitiator.rulesStrings.23>pain->anger</ImHit.logRulesInitiator.rulesStrings.23>
-  <ImHit.logRulesInitiator.rulesStrings.24>pain->agony</ImHit.logRulesInitiator.rulesStrings.24>
-  <ImHit.logRulesInitiator.rulesStrings.25>pain->torment</ImHit.logRulesInitiator.rulesStrings.25>
-  <ImHit.logRulesInitiator.rulesStrings.26>pain->misery</ImHit.logRulesInitiator.rulesStrings.26>
-  <ImHit.logRulesInitiator.rulesStrings.27>pain->suffering</ImHit.logRulesInitiator.rulesStrings.27>
-  <ImHit.logRulesInitiator.rulesStrings.28>pain->anguish</ImHit.logRulesInitiator.rulesStrings.28>
-  <ImHit.logRulesInitiator.rulesStrings.29>pain->discomfort</ImHit.logRulesInitiator.rulesStrings.29>
-  <ImHit.logRulesInitiator.rulesStrings.30>pain->rage</ImHit.logRulesInitiator.rulesStrings.30>
-  <ImHit.logRulesInitiator.rulesStrings.31>pain->desperation</ImHit.logRulesInitiator.rulesStrings.31>
-  <ImHit.logRulesInitiator.rulesStrings.32>pain->horror</ImHit.logRulesInitiator.rulesStrings.32>
+  <ImHit.label>我中弹了！</ImHit.label>
+  <ImHit.logRulesInitiator.rulesStrings.0>r_logentry(target_part_damaged_count==0, weapon_exists==false)->[INITIATOR_nameDef]被[TARGET_nameDef]击中后，在[pain]中[cried_out]。</ImHit.logRulesInitiator.rulesStrings.0>
+  <ImHit.logRulesInitiator.rulesStrings.1>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->[INITIATOR_nameDef]被[TARGET_nameDef]击中[damaged_targets]后，在[pain]中[cried_out]。</ImHit.logRulesInitiator.rulesStrings.1>
+  <ImHit.logRulesInitiator.rulesStrings.2>r_logentry(target_part_damaged_count==0, weapon_exists==false)->被[TARGET_nameDef]击中后，[INITIATOR_nameDef][said_something]。</ImHit.logRulesInitiator.rulesStrings.2>
+  <ImHit.logRulesInitiator.rulesStrings.3>r_logentry(target_part_damaged_count>=1, weapon_exists==false)->被[TARGET_nameDef]击中[damaged_targets]后，[INITIATOR_nameDef][said_something]。</ImHit.logRulesInitiator.rulesStrings.3>
+  <ImHit.logRulesInitiator.rulesStrings.4>r_logentry(target_part_damaged_count==0, weapon_exists==true)->[INITIATOR_nameDef]被[TARGET_nameDef]的[WEAPON_label]击中后，在[pain]中[cried_out]。</ImHit.logRulesInitiator.rulesStrings.4>
+  <ImHit.logRulesInitiator.rulesStrings.5>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->[INITIATOR_nameDef]被[TARGET_nameDef]的[WEAPON_label]击中[damaged_targets]后，在[pain]中[cried_out]。</ImHit.logRulesInitiator.rulesStrings.5>
+  <ImHit.logRulesInitiator.rulesStrings.6>r_logentry(target_part_damaged_count==0, weapon_exists==true)->被[TARGET_nameDef]的[WEAPON_label]击中后，[INITIATOR_nameDef][said_something]。</ImHit.logRulesInitiator.rulesStrings.6>
+  <ImHit.logRulesInitiator.rulesStrings.7>r_logentry(target_part_damaged_count>=1, weapon_exists==true)->被[TARGET_nameDef]的[WEAPON_label]击中[damaged_targets]后，[INITIATOR_nameDef][said_something]。</ImHit.logRulesInitiator.rulesStrings.7>
+  <ImHit.logRulesInitiator.rulesStrings.8>cried_out->哭喊</ImHit.logRulesInitiator.rulesStrings.8>
+  <ImHit.logRulesInitiator.rulesStrings.9>cried_out->叫喊</ImHit.logRulesInitiator.rulesStrings.9>
+  <ImHit.logRulesInitiator.rulesStrings.10>cried_out->大喊</ImHit.logRulesInitiator.rulesStrings.10>
+  <ImHit.logRulesInitiator.rulesStrings.11>cried_out->尖叫</ImHit.logRulesInitiator.rulesStrings.11>
+  <ImHit.logRulesInitiator.rulesStrings.12>cried_out->咕哝</ImHit.logRulesInitiator.rulesStrings.12>
+  <ImHit.logRulesInitiator.rulesStrings.13>cried_out->喘息</ImHit.logRulesInitiator.rulesStrings.13>
+  <ImHit.logRulesInitiator.rulesStrings.14>cried_out->咕噜</ImHit.logRulesInitiator.rulesStrings.14>
+  <ImHit.logRulesInitiator.rulesStrings.15>cried_out->咆哮</ImHit.logRulesInitiator.rulesStrings.15>
+  <ImHit.logRulesInitiator.rulesStrings.16>cried_out->呻吟</ImHit.logRulesInitiator.rulesStrings.16>
+  <ImHit.logRulesInitiator.rulesStrings.17>cried_out->嚎叫</ImHit.logRulesInitiator.rulesStrings.17>
+  <ImHit.logRulesInitiator.rulesStrings.18>cried_out->尖叫</ImHit.logRulesInitiator.rulesStrings.18>
+  <ImHit.logRulesInitiator.rulesStrings.19>cried_out->嘶嘶</ImHit.logRulesInitiator.rulesStrings.19>
+  <ImHit.logRulesInitiator.rulesStrings.20>cried_out->咒骂</ImHit.logRulesInitiator.rulesStrings.20>
+  <ImHit.logRulesInitiator.rulesStrings.21>cried_out->哀嚎</ImHit.logRulesInitiator.rulesStrings.21>
+  <ImHit.logRulesInitiator.rulesStrings.22>pain->疼痛</ImHit.logRulesInitiator.rulesStrings.22>
+  <ImHit.logRulesInitiator.rulesStrings.23>pain->愤怒</ImHit.logRulesInitiator.rulesStrings.23>
+  <ImHit.logRulesInitiator.rulesStrings.24>pain->剧痛</ImHit.logRulesInitiator.rulesStrings.24>
+  <ImHit.logRulesInitiator.rulesStrings.25>pain->折磨</ImHit.logRulesInitiator.rulesStrings.25>
+  <ImHit.logRulesInitiator.rulesStrings.26>pain->痛苦</ImHit.logRulesInitiator.rulesStrings.26>
+  <ImHit.logRulesInitiator.rulesStrings.27>pain->苦难</ImHit.logRulesInitiator.rulesStrings.27>
+  <ImHit.logRulesInitiator.rulesStrings.28>pain->极度痛苦</ImHit.logRulesInitiator.rulesStrings.28>
+  <ImHit.logRulesInitiator.rulesStrings.29>pain->不适</ImHit.logRulesInitiator.rulesStrings.29>
+  <ImHit.logRulesInitiator.rulesStrings.30>pain->狂怒</ImHit.logRulesInitiator.rulesStrings.30>
+  <ImHit.logRulesInitiator.rulesStrings.31>pain->绝望</ImHit.logRulesInitiator.rulesStrings.31>
+  <ImHit.logRulesInitiator.rulesStrings.32>pain->恐惧</ImHit.logRulesInitiator.rulesStrings.32>
   <ImHit.logRulesInitiator.rulesStrings.33>damaged_targets(target_part_damaged_count==1)->[target_part_damaged0_label]</ImHit.logRulesInitiator.rulesStrings.33>
-  <ImHit.logRulesInitiator.rulesStrings.34>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label] and [target_part_damaged1_label]</ImHit.logRulesInitiator.rulesStrings.34>
-  <ImHit.logRulesInitiator.rulesStrings.35>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label], [target_part_damaged1_label], and [target_part_damaged2_label]</ImHit.logRulesInitiator.rulesStrings.35>
-  <ImHit.logRulesInitiator.rulesStrings.36>damaged_targets->[target_part_damaged0_label], [target_part_damaged1_label], [target_part_damaged2_label], and [target_part_damaged3_label]</ImHit.logRulesInitiator.rulesStrings.36>
+  <ImHit.logRulesInitiator.rulesStrings.34>damaged_targets(target_part_damaged_count==2)->[target_part_damaged0_label]和[target_part_damaged1_label]</ImHit.logRulesInitiator.rulesStrings.34>
+  <ImHit.logRulesInitiator.rulesStrings.35>damaged_targets(target_part_damaged_count==3)->[target_part_damaged0_label]、[target_part_damaged1_label]和[target_part_damaged2_label]</ImHit.logRulesInitiator.rulesStrings.35>
+  <ImHit.logRulesInitiator.rulesStrings.36>damaged_targets->[target_part_damaged0_label]、[target_part_damaged1_label]、[target_part_damaged2_label]和[target_part_damaged3_label]</ImHit.logRulesInitiator.rulesStrings.36>
 
 
 </LanguageData>

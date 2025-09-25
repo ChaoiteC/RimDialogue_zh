@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thought.label>thought</Thought.label>
-  <Thought.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] thought about [INITIATOR_possessive] [thought_label].</Thought.logRulesInitiator.rulesStrings.0>
-  <Thought.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] thought to themselves about [INITIATOR_possessive] [thought_label].</Thought.logRulesInitiator.rulesStrings.1>
+
+  <Thought.label>想法</Thought.label>
+  <Thought.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]思考了[INITIATOR_possessive]想法：“[thought_label]”。</Thought.logRulesInitiator.rulesStrings.0>
+  <Thought.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]独自思考了[INITIATOR_possessive]想法：“[thought_label]”。</Thought.logRulesInitiator.rulesStrings.1>
 
 
 </LanguageData>

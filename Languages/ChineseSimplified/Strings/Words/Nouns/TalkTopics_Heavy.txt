@@ -1,342 +1,342 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿童年
+童年恐惧
+童年之爱
+童年经历
+生活
+生活挑战
+生活的馈赠
+生活记忆
+人生目标
+人生遗憾
+生活压力
+生活的失望
+生活的无意义
+生活的随机性
+希望
+成熟
+成年
+孩子
+恐惧
+噩梦
+成功
+贫困的道德
+财富的道德
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+死亡
+死亡的必然性
+死亡的解脱
+死后生命
+已故亲人
+缺席的朋友
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+慈善
+慈善事业
+帮助受压迫者
+帮助病人
+帮助穷人
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+外星人
+外星接触
+外星阴谋
+外星人的缺席
+政府阴谋
+宗教阴谋
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+星星
+其他行星
+这个星球
+宇宙的尺度
+宇宙的年龄
+宇宙的命运
+人类在宇宙中的扩张
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+原始主义
+卢德主义
+科技
+机器智能
+人工智能
+计算机技术
+武器技术
 
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
+社会
+道德
+自由
+法律
+政府
+权利
+历史
+恐怖
+恐怖主义
+政治
+荣誉
+社会问题
+市场
+自由
+威权主义
+无政府状态
+不公正
+正义
+真相
+部落主义
+群体偏好
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+哲学
+现实
+文化
+文化差异
+文化冲击
+人性
+人类
+宗教
+生命的意义
+身份
+永恒
+一元论
+二元论
+认识论
+诚实
+言论自由
+种族
+自由主义
+苦难的必然性
+知识的本质
+情感的本质
 
-fate
-the fate of mankind
-the fate of the universe
+命运
+人类的命运
+宇宙的命运
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+艺术
+艺术运动
+艺术抱负
+人类美学
+艺术本能
+艺术史
 
-love
-romance
-sexuality
-sexual morality
-masculinity
-femininity
+爱
+浪漫
+性欲
+性道德
+男子气概
+女性气质
 
-self-replicating machines
-generation ships
-Von Neumann probes
+自我复制机器
+世代飞船
+冯·诺依曼探测器
 
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rimworlds
-coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+远古科技
+远古科技师
+机器人格
+约翰逊-田中驱动器
+历史秩序
+古地球
+边缘世界
+核心世界
+低温睡眠
+低温睡眠墓穴
+机械族
+同类相食
 
-addiction  
-grief  
-the process of grieving  
-coping with loss  
-betrayal  
-revenge  
-forgiveness  
-forgiving oneself  
-mental illness  
-depression  
-anxiety  
-PTSD  
-trauma recovery  
-survivor’s guilt  
-self-doubt  
-self-identity  
-personal growth  
-resilience  
-existential dread  
-nihilism  
-determinism  
-free will  
-personal responsibility  
-sacrifice  
-duty  
-obligation  
-honor in modern society  
-the burden of expectations  
-parental expectations  
-society's expectations  
-loneliness  
-solitude  
-introversion  
-extroversion  
-social pressure  
-the weight of secrets  
-lies and deception  
-personal truth  
-intimacy  
-platonic love  
-unrequited love  
-regret in relationships  
-regret in life choices  
-the value of time  
-making amends  
-reconciliation  
-interpersonal conflicts  
-narcissism  
-empathy  
-sympathy  
-the fragility of trust  
-trust in relationships  
-privacy  
-social media and self-image  
-cyberbullying  
-cancel culture  
-celebrity culture  
-the impact of fame  
-self-worth  
-self-acceptance  
-body image  
-society's beauty standards  
-materialism  
-the pursuit of happiness  
-hedonism  
-spiritual fulfillment  
-self-actualization  
-finding purpose  
-identity crises  
-generational trauma  
-ancestry  
-the search for roots  
-the importance of family  
-estrangement from family  
-adoption and identity  
-the fear of failure  
-fear of success  
-imposter syndrome  
-shame  
-regret  
-remorse  
-childhood trauma  
-adulthood trauma  
-the aging process  
-mortality  
-the nature of memory  
-the reliability of memory  
-collective memory  
-forgotten histories  
-social justice  
-racial inequality  
-gender inequality  
-privilege  
-class struggle  
-the psychology of wealth  
-the psychology of poverty  
-environmental degradation  
-climate change anxiety  
-species extinction  
-animal rights  
-veganism  
-ethical consumerism  
-genetic engineering  
-the ethics of cloning
+成瘾
+悲伤
+悲伤的过程
+应对失落
+背叛
+复仇
+宽恕
+原谅自己
+精神疾病
+抑郁症
+焦虑症
+创伤后应激障碍
+创伤恢复
+幸存者内疚
+自我怀疑
+自我认同
+个人成长
+韧性
+存在性恐惧
+虚无主义
+决定论
+自由意志
+个人责任
+牺牲
+责任
+义务
+现代社会中的荣誉
+期望的负担
+父母的期望
+社会的期望
+孤独
+独处
+内向
+外向
+社会压力
+秘密的重压
+谎言与欺骗
+个人真相
+亲密关系
+柏拉图式爱情
+单相思
+关系中的遗憾
+人生选择中的遗憾
+时间的价值
+弥补过失
+和解
+人际冲突
+自恋
+同理心
+同情心
+信任的脆弱性
+关系中的信任
+隐私
+社交媒体与自我形象
+网络欺凌
+取消文化
+名人文化
+名声的影响
+自我价值
+自我接纳
+身体形象
+社会审美标准
+物质主义
+追求幸福
+享乐主义
+精神满足
+自我实现
+寻找人生目标
+身份危机
+代际创伤
+祖先
+寻根
+家庭的重要性
+与家人疏远
+收养与身份
+对失败的恐惧
+对成功的恐惧
+冒名顶替综合症
+羞耻
+遗憾
+悔恨
+童年创伤
+成年创伤
+衰老过程
+死亡
+记忆的本质
+记忆的可靠性
+集体记忆
+被遗忘的历史
+社会正义
+种族不平等
+性别不平等
+特权
+阶级斗争
+财富心理学
+贫困心理学
+环境退化
+气候变化焦虑
+物种灭绝
+动物权利
+素食主义
+道德消费主义
+基因工程
+克隆伦理
 
-the ethics of organ harvesting  
-organ trading for survival  
-the morality of cannibalism  
-cannibalism for survival  
-slavery as a last resort  
-using slaves for colony labor  
-the ethics of forced labor  
-forced recruitment of prisoners  
-breaking a prisoner’s will  
-stockholm syndrome in captives  
-releasing vs. killing prisoners  
-the morality of euthanizing colonists  
-leaving injured colonists behind  
-sacrificing one colonist to save others  
-rescuing hostile factions  
-betrayal of allies  
-desertion in desperate situations  
-trading colonists for supplies  
-using animals as war assets  
-intentionally breeding animals for food  
-genetically modified animals  
-selling bonded animals  
-survival vs. morality in hard times  
-forming alliances of convenience  
-declining offers from other colonies  
-raiding other colonies for supplies  
-killing non-hostile visitors for resources  
-intentionally starving prisoners  
-using starvation as punishment  
-keeping prisoners as breeding stock  
-implanting emotions in mechanoids  
-stripping incapacitated enemies  
-destroying others’ food stores  
-stealing from friendly factions  
-testing drugs on prisoners  
-using addictive drugs for control  
-addicting colonists to increase productivity  
-dealing with mental breaks  
-the mental toll of war  
-overworking colonists for efficiency  
-medical experimentation on prisoners  
-testing unknown artifacts on colonists  
-accidentally creating mechanoid threats  
-the consequences of hacking mechanoids  
-repurposing fallen mechanoids for parts  
-using psychic weapons on colonists  
-justifying the use of psychic lances  
-allowing harmful rituals to boost morale  
-sacrificing animals in rituals  
-sacrificing colonists in rituals  
-selling colonists to pirate traders  
-using raiders as livestock  
-breeding raiders as labor  
-the ethics of child colonists  
-raising children in hostile environments  
-using children as workers  
-children in wartime scenarios  
-facing raids by child soldiers  
-defensive brutality against attackers  
-building traps that cause immense suffering  
-choosing lethal traps over humane ones  
-inducing fear in raiders as a tactic  
-keeping raiders’ bodies as deterrents  
-using torture as an interrogation method  
-justifying long-term imprisonment  
-testing psychic abilities on prisoners  
-colonist relationships with prisoners  
-forcing relationships for morale  
-using romance as a control mechanism  
-emotional blackmail among colonists  
-social manipulation for survival  
-choosing toxic relationships to survive  
-breaking up relationships for productivity  
-enforcing arranged marriages  
-encouraging pregnancies to boost population  
-eugenics in colonist selection  
-harvesting organs from dead colonists  
-dealing with traitor colonists  
-handling colonist betrayal  
-the mental toll of long-term cryptosleep  
-psychological impacts of cryosleep tombs  
-burying vs burning colonists  
-memorializing dead colonists  
-exploiting colonists’ weaknesses  
-encouraging rivalries for motivation  
-choosing which colonists to sacrifice  
-survivor’s guilt in colonists  
-dealing with deserters  
-justifying mass animal culling  
-inducing drug habits for loyalty  
-facing hostile biomes  
-keeping toxic animals as weapons  
-indiscriminate killing of native wildlife  
-polluting environments to ensure safety  
-intentionally destroying ecosystems  
-sacrificing wilderness for a secure colony  
-dominating other factions through fear  
-extorting weaker factions
+器官移植伦理
+为生存而进行器官交易
+食人行为的道德性
+为生存而食人
+奴役作为最后手段
+使用奴隶进行殖民地劳动
+强迫劳动的伦理
+强行招募囚犯
+摧毁囚犯的意志
+被俘者中的斯德哥尔摩综合症
+释放与处决囚犯
+对殖民者实施安乐死的道德性
+抛弃受伤的殖民者
+牺牲一名殖民者以拯救他人
+营救敌对派系
+背叛盟友
+绝境中的逃兵行为
+用殖民者换取补给
+将动物用作战争资产
+为食物而故意饲养动物
+转基因动物
+出售有羁绊的动物
+艰难时期的生存与道德
+建立权宜联盟
+拒绝其他殖民地的提议
+袭击其他殖民地以获取补给
+为获取资源而杀死非敌对访客
+故意饿死囚犯
+利用饥饿作为惩罚
+将囚犯作为繁殖种群
+在机械体中植入情感
+剥光丧失行动能力的敌人
+摧毁他人的食物储备
+偷窃友好派系
+在囚犯身上测试药物
+使用成瘾药物进行控制
+让殖民者上瘾以提高生产力
+处理精神崩溃
+战争的精神代价
+为提高效率而让殖民者过度劳作
+对囚犯进行医学实验
+对殖民者测试未知神器
+意外制造机械族威胁
+入侵机械族的后果
+将坠落的机械族重新利用以获取零件
+对殖民者使用心灵武器
+为使用心灵长矛辩护
+允许有害仪式以提升士气
+在仪式中献祭动物
+在仪式中献祭殖民者
+将殖民者卖给海盗商人
+将袭击者用作牲畜
+繁殖袭击者作为劳动力
+儿童殖民者的伦理问题
+在敌对环境中抚养儿童
+使用儿童作为工人
+战时情景下的儿童
+面对儿童士兵的袭击
+对攻击者的防御性残暴
+建造造成巨大痛苦的陷阱
+选择致命陷阱而非人道陷阱
+作为战术恐吓袭击者
+保留袭击者尸体作为威慑
+使用酷刑作为审讯方法
+为长期监禁辩护
+对囚犯测试心灵能力
+殖民者与囚犯的关系
+为提升士气而强迫建立关系
+利用浪漫作为控制机制
+殖民者之间的情感勒索
+为生存而进行社会操纵
+选择有毒关系以求生存
+为提高生产力而拆散关系
+强制包办婚姻
+鼓励怀孕以增加人口
+殖民者选择中的优生学
+从死亡殖民者身上获取器官
+处理叛徒殖民者
+处理殖民者的背叛
+长期低温休眠对精神造成的负担
+低温休眠墓穴的心理影响
+埋葬与焚烧殖民者
+纪念死去的殖民者
+利用殖民者的弱点
+鼓励竞争以激发动力
+选择牺牲哪些殖民者
+殖民者的幸存者内疚
+处理逃兵
+为大规模扑杀动物辩护
+诱导吸毒习惯以获取忠诚
+面对敌对生物群落
+将有毒动物作为武器
+滥杀本地野生动物
+污染环境以确保安全
+故意破坏生态系统
+牺牲荒野以换取安全的殖民地
+通过恐惧支配其他派系
+勒索较弱的派系
