@@ -528,10 +528,10 @@
   <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.12>talkedabout->讨论</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.12>
   <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.13>commentedabout->说了些话</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.13>
   <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.14>commentedabout->提了一句</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.14>
-  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.15>commentedabout->made a comment about</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.15>
-  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.16>commentedabout->commented about</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.16>
-  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.17>commentedabout->told a joke about</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.17>
-  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.18>commentedabout->remarked about</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.18>
+  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.15>commentedabout->评论</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.15>
+  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.16>commentedabout->评论</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.16>
+  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.17>commentedabout->讲了个笑话</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.17>
+  <InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.18>commentedabout->评论了</InitiatorFamilyChitchat.logRulesInitiator.rulesStrings.18>
 
   <RecipientFamilyChitchat.label>关于答话者家人的闲聊</RecipientFamilyChitchat.label>
   <RecipientFamilyChitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][RECIPIENT_nameDef]的[relation]“[family]”。</RecipientFamilyChitchat.logRulesInitiator.rulesStrings.0>

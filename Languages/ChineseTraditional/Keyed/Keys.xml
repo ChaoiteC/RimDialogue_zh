@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimDialogue.ResetToDefault>重置爲默認</RimDialogue.ResetToDefault>
+  <RimDialogue.DialogueSettings>對話設置</RimDialogue.DialogueSettings>
+  <RimDialogue.DialogueMessages>對話消息</RimDialogue.DialogueMessages>
+  <RimDialogue.MaxWords>大致最大對話長度</RimDialogue.MaxWords>
+  <RimDialogue.MinWords>大致最小對話長度</RimDialogue.MinWords>
+  <RimDialogue.SpecialInstructions>提示詞</RimDialogue.SpecialInstructions>
+  <RimDialogue.ClientId>客戶端ID（ClientID）</RimDialogue.ClientId>
+  <RimDialogue.ServerUrl>服務器URL（ServerUrl）</RimDialogue.ServerUrl>
+  <RimDialogue.MaxSpeed>用於生成對話的最大遊戲速度</RimDialogue.MaxSpeed>
+  <RimDialogue.MaxConversationsStored>最大存儲對話數量</RimDialogue.MaxConversationsStored>
+  <RimDialogue.MaxContextStored>最大存儲上下文</RimDialogue.MaxContextStored>
+  <RimDialogue.VerboseLogging>詳細日誌記錄</RimDialogue.VerboseLogging>
+  <RimDialogue.FilterWords>過濾詞</RimDialogue.FilterWords>
+  
+  <RimDialogue.MinDelayMinutesAll>所有類型對話之間的最小遊戲分鐘數</RimDialogue.MinDelayMinutesAll>
+  <RimDialogue.MinDelayMinutes>每種類型對話之間的最小遊戲分鐘數</RimDialogue.MinDelayMinutes>
+  <RimDialogue.MinTimeBetweenConversations>對話之間的最小真實秒數</RimDialogue.MinTimeBetweenConversations>
+
+  <RimDialogue.EnableCaravans>在商隊中啓用對話</RimDialogue.EnableCaravans>
+  <RimDialogue.OnlyColonists>只有殖民者交談</RimDialogue.OnlyColonists>
+  <RimDialogue.ShowInteractionBubbles>顯示互動氣泡</RimDialogue.ShowInteractionBubbles>
+  <RimDialogue.ShowDialogueBubbles>顯示對話氣泡</RimDialogue.ShowDialogueBubbles>
+  <RimDialogue.ShowDialogueMessages>顯示對話消息</RimDialogue.ShowDialogueMessages>
+  <RimDialogue.DialogueMessageLifetime>正常對話消息壽命</RimDialogue.DialogueMessageLifetime>
+  <RimDialogue.MinDialogueMessageLifetime>最短對話消息壽命</RimDialogue.MinDialogueMessageLifetime>
+  <RimDialogue.DialogueMessageWidth>對話消息寬度</RimDialogue.DialogueMessageWidth>
+  
+  <RimDialogue.MessageScrollSpeed>消息滾動速度</RimDialogue.MessageScrollSpeed>
+  <RimDialogue.MemeButton>生圖</RimDialogue.MemeButton>
+  <RimDialogue.CopyButton>複製</RimDialogue.CopyButton>
+
+  <RimDialogue.DialogueWeights>對話權重</RimDialogue.DialogueWeights>
+  <RimDialogue.TimelyEventWeight>及時事件獎勵</RimDialogue.TimelyEventWeight>
+  <RimDialogue.ToggleAllChitchatWeights>切換全部</RimDialogue.ToggleAllChitchatWeights>
+  <RimDialogue.MessageChitChatWeight>消息</RimDialogue.MessageChitChatWeight>
+  <RimDialogue.GameConditionChitChatWeight>遊戲狀況</RimDialogue.GameConditionChitChatWeight>
+  <RimDialogue.BattleChitChatWeight>戰鬥</RimDialogue.BattleChitChatWeight>
+  <RimDialogue.RecentIncidentChitChatWeight>近期事件</RimDialogue.RecentIncidentChitChatWeight>
+  <RimDialogue.AlertChitChatWeight>警報</RimDialogue.AlertChitChatWeight>
+  <RimDialogue.SameIdeologyChitChatWeight>相同意識形態</RimDialogue.SameIdeologyChitChatWeight>
+  <RimDialogue.SkillsChitChatWeight>技能</RimDialogue.SkillsChitChatWeight>
+  <RimDialogue.ColonistChitChatWeight>殖民者</RimDialogue.ColonistChitChatWeight>
+  <RimDialogue.HealthChitChatWeight>健康</RimDialogue.HealthChitChatWeight>
+  <RimDialogue.ApparelChitChatWeight>服裝</RimDialogue.ApparelChitChatWeight>
+  <RimDialogue.WeatherChitChatWeight>天氣</RimDialogue.WeatherChitChatWeight>
+  <RimDialogue.FamilyChitChatWeight>家庭</RimDialogue.FamilyChitChatWeight>
+  <RimDialogue.NeedChitChatWeight>需求</RimDialogue.NeedChitChatWeight>
+  <RimDialogue.FactionChitChatWeight>派系</RimDialogue.FactionChitChatWeight>
+  <RimDialogue.WeaponChitChatWeight>武器</RimDialogue.WeaponChitChatWeight>
+  <RimDialogue.AppearanceChitChatWeight>外觀</RimDialogue.AppearanceChitChatWeight>
+  <RimDialogue.AnimalChitChatWeight>動物</RimDialogue.AnimalChitChatWeight>
+  <RimDialogue.RoomChitChatWeight>房間</RimDialogue.RoomChitChatWeight>
+  <RimDialogue.DeadColonistDeepTalk>死亡殖民者</RimDialogue.DeadColonistDeepTalk>
+  <RimDialogue.Quest>任務</RimDialogue.Quest>
+  <RimDialogue.Record>記錄</RimDialogue.Record>
+
+  <RimDialogue.ContextWeights>上下文權重</RimDialogue.ContextWeights>
+  <RimDialogue.JobContextWeight>工作上下文</RimDialogue.JobContextWeight>
+  <RimDialogue.LogEntryContextWeight>日誌條目上下文</RimDialogue.LogEntryContextWeight>
+  <RimDialogue.BattleLogEntryContextWeight>戰鬥日誌上下文</RimDialogue.BattleLogEntryContextWeight>
+  <RimDialogue.ConversationContextWeight>對話上下文</RimDialogue.ConversationContextWeight>
+  <RimDialogue.ThreatBigLetterContextWeight>主要威脅上下文</RimDialogue.ThreatBigLetterContextWeight>
+  <RimDialogue.NegativeLetterContextWeight>負面事件上下文</RimDialogue.NegativeLetterContextWeight>
+  <RimDialogue.PositiveLetterContextWeight>正面事件上下文</RimDialogue.PositiveLetterContextWeight>
+  <RimDialogue.NeutralLetterContextWeight>中性事件上下文</RimDialogue.NeutralLetterContextWeight>
+  <RimDialogue.MessageContextWeight>消息上下文</RimDialogue.MessageContextWeight>
+  <RimDialogue.BattleContextWeight>戰鬥上下文</RimDialogue.BattleContextWeight>
+  <RimDialogue.HediffContextWeight>健康狀況上下文</RimDialogue.HediffContextWeight>
+  
+  <RimDialogue.ChanceOf>幾率爲</RimDialogue.ChanceOf>
+  <RimDialogue.MeleeCombatQuipChance>近戰格鬥嘲諷</RimDialogue.MeleeCombatQuipChance>
+  <RimDialogue.RangedFireQuipChance>遠程射擊嘲諷</RimDialogue.RangedFireQuipChance>
+  <RimDialogue.RangedImpactQuipChance>遠程命中嘲諷</RimDialogue.RangedImpactQuipChance>
+  <RimDialogue.DamageTakenQuipChance>受到傷害嘲諷</RimDialogue.DamageTakenQuipChance>
+  <RimDialogue.KillQuipChance>擊殺嘲諷</RimDialogue.KillQuipChance>
+  <RimDialogue.ThoughtChance>想法</RimDialogue.ThoughtChance>
+
+  <RimDialogue.DefaultInstructions>編寫對話，以反映《RimWorld》中粗獷、黑色幽默和情感複雜的基調，植根於混亂、無情的RimWorld殖民地嚴酷的生存現實。</RimDialogue.DefaultInstructions>
+  <RimDialogue.AdditionalInstructions>[pawn]的提示詞</RimDialogue.AdditionalInstructions>
+  <RimDialogue.Ago>之前</RimDialogue.Ago>
+  <RimDialogue.Conversations>過去的對話</RimDialogue.Conversations>
+  <RimDialogue.AllPawns>所有角色</RimDialogue.AllPawns>
+  <RimDialogue.Colonists>殖民者</RimDialogue.Colonists>
+
+  <RimDialogue.Unknown>未知</RimDialogue.Unknown>
+  <RimDialogue.None>無</RimDialogue.None>
+
+  <RimDialogue.ThreatBig>主要威脅：</RimDialogue.ThreatBig>
+  <RimDialogue.ThreatSmall>次要威脅：</RimDialogue.ThreatSmall>
+  <RimDialogue.PositiveEvent>一個正面事件：</RimDialogue.PositiveEvent>
+  <RimDialogue.NeutralEvent>一箇中性事件：</RimDialogue.NeutralEvent>
+  <RimDialogue.DefaultEvent>一個事件：</RimDialogue.DefaultEvent>
+    
+  <RimDialogue.Family>家庭</RimDialogue.Family>
+  <RimDialogue.Member>成員</RimDialogue.Member>
+  <RimDialogue.Injury>受傷</RimDialogue.Injury>
+  <RimDialogue.Sleep>睡眠</RimDialogue.Sleep>
+
+  <RimDialogue.AllPawnsTip>輸入自定義提示詞，這些提示詞將在對話生成期間應用於所有角色。使用此項來定義語氣、風格或行爲準則（例如，“保持回覆簡短且諷刺”或“使用文言正式發言”）。這些提示詞將添加到每個角色的提示中。</RimDialogue.AllPawnsTip>
+  <RimDialogue.ColonistsTip>輸入僅在生成對話時應用於殖民者的提示詞。使用此項來塑造殖民地的文化以及殖民者在對話中的說話方式（例如，“使用樂觀的語言”或“以全名互相稱呼”）。這些提示詞不會影響囚犯、客人或其他角色。</RimDialogue.ColonistsTip>
+  <RimDialogue.PawnTip>輸入僅適用於此角色對話的自定義提示詞。使用此項來定義獨特的個性特徵、說話模式或怪癖（例如，“總是押韻說話”或“使用軍事術語”）。</RimDialogue.PawnTip>
+  <RimDialogue.Characters>字符</RimDialogue.Characters>
+
+  <RimDialogue.DeepTalkCompensationFactor>DeepTalk補償係數</RimDialogue.DeepTalkCompensationFactor>
+  <RimDialogue.FilterButtonLabel>按下此按鈕以設置更多自定義提示。</RimDialogue.FilterButtonLabel>
+  <RimDialogue.HideDiscordButton>隱藏Discord按鈕</RimDialogue.HideDiscordButton>
+  <RimDialogue.AreYouSure>你確定要重新生成提示詞嗎？</RimDialogue.AreYouSure>
+  <RimDialogue.RegenerateButton>生成提示詞</RimDialogue.RegenerateButton>
+  <RimDialogue.RegenerateButtonTip>重新生成該小人的自定義提示詞。這將覆蓋任何現有提示詞。</RimDialogue.RegenerateButtonTip>
+
+
+  
+  <RimDialogue.Time>時間</RimDialogue.Time>
+
+  <RimDialogue.Alert_AbandonedBaby>嬰兒{0}已被遺棄</RimDialogue.Alert_AbandonedBaby>
+  <RimDialogue.Alert_AbandonedBaby_Outside>{0}在外面。</RimDialogue.Alert_AbandonedBaby_Outside>
+  <RimDialogue.Alert_AbandonedBaby_InRoom>嬰兒{0}在{1}中。</RimDialogue.Alert_AbandonedBaby_InRoom>
+  <RimDialogue.Alert_AnimalFilth>{0}正在製造污穢</RimDialogue.Alert_AnimalFilth>
+  <RimDialogue.Alert_AnimalPenNeeded>動物“{0}”需要一個畜欄</RimDialogue.Alert_AnimalPenNeeded>
+  <RimDialogue.Alert_AnimalPenNotEnclosed>一個畜欄沒有圍起來</RimDialogue.Alert_AnimalPenNotEnclosed>
+  <RimDialogue.Alert_AnimalPenNotEnclosed_Explanation>如果畜欄沒有修好，裏面的動物可能會逃跑。</RimDialogue.Alert_AnimalPenNotEnclosed_Explanation>
+  <RimDialogue.Alert_AnimalRoaming>動物“{0}”不在畜欄裏，可能會跑掉</RimDialogue.Alert_AnimalRoaming>
+  <RimDialogue.Alert_Boredom>{0}感到無聊。</RimDialogue.Alert_Boredom>
+  <RimDialogue.Alert_BrawlerHasRangedWeapon>{0}是一名格鬥者，卻擁有遠程武器</RimDialogue.Alert_BrawlerHasRangedWeapon>
+  <RimDialogue.Alert_BrawlerHasRangedWeapon_Explanation>{0}是一名格鬥者，卻裝備了遠程武器。這會讓{1}不高興。</RimDialogue.Alert_BrawlerHasRangedWeapon_Explanation>
+  <RimDialogue.Alert_ColonistLeftUnburied>{0}的屍體未被掩埋</RimDialogue.Alert_ColonistLeftUnburied>
+  <RimDialogue.Alert_ColonistLeftUnburied_Explanation>{0}已死亡，其屍體被遺棄在野外。</RimDialogue.Alert_ColonistLeftUnburied_Explanation>
+  <RimDialogue.Alert_ColonistNeedsRescuing>{0}已倒下，需要救援</RimDialogue.Alert_ColonistNeedsRescuing>
+  <RimDialogue.Alert_ColonistNeedsRescuing_Explanation>{0}有以下傷勢：{1}。</RimDialogue.Alert_ColonistNeedsRescuing_Explanation>
+  <RimDialogue.Alert_ColonistNeedsTend>{0}需要治療</RimDialogue.Alert_ColonistNeedsTend>
+  <RimDialogue.Alert_ColonistNeedsTend_Explanation>{0}有以下需要醫療救治的傷勢：{1}。</RimDialogue.Alert_ColonistNeedsTend_Explanation>
+  <RimDialogue.Alert_ColonistsIdle>{0}沒有任何工作可做</RimDialogue.Alert_ColonistsIdle>
+  <RimDialogue.Alert_ColonistsIdle_Explanation>{0}被分配但無工作可做的工種：{1}</RimDialogue.Alert_ColonistsIdle_Explanation>
+  <RimDialogue.Alert_DateRitualComing>此儀式即將到來：{0}</RimDialogue.Alert_DateRitualComing>
+  <RimDialogue.Alert_FireInHomeArea>居住區發生火災</RimDialogue.Alert_FireInHomeArea>
+  <RimDialogue.Alert_Heatstroke>{0}正在中暑</RimDialogue.Alert_Heatstroke>
+  <RimDialogue.Alert_Heatstroke_Stage>{0}的中暑處於{1}階段。</RimDialogue.Alert_Heatstroke_Stage>
+  <RimDialogue.Alert_Heatstroke_Outside>當前室外溫度爲{0}</RimDialogue.Alert_Heatstroke_Outside>
+  <RimDialogue.Alert_Heatstroke_Room>{0}所在房間的當前溫度爲{1}</RimDialogue.Alert_Heatstroke_Room>
+  <RimDialogue.Alert_Heatstroke_ComfortRange>{0}的舒適溫度範圍是{1}</RimDialogue.Alert_Heatstroke_ComfortRange>
+  <RimDialogue.Alert_Heatstroke_LifeThreatening>{0}的中暑程度是{1}。</RimDialogue.Alert_Heatstroke_LifeThreatening>
+  <RimDialogue.Alert_Hypothermia>{0}正在失溫</RimDialogue.Alert_Hypothermia>
+  <RimDialogue.Alert_Hypothermia_Stage>{0}的失溫處於{1}階段。</RimDialogue.Alert_Hypothermia_Stage>
+  <RimDialogue.Alert_Hypothermia_Outside>當前室外溫度爲{0}</RimDialogue.Alert_Hypothermia_Outside>
+  <RimDialogue.Alert_Hypothermia_Room>{0}所在房間的當前溫度爲{1}</RimDialogue.Alert_Hypothermia_Room>
+  <RimDialogue.Alert_Hypothermia_ComfortRange>{0}的舒適溫度範圍是{1}</RimDialogue.Alert_Hypothermia_ComfortRange>
+  <RimDialogue.Alert_Hypothermia_LifeThreatening>{0}的失溫程度是{1}。</RimDialogue.Alert_Hypothermia_LifeThreatening>
+  <RimDialogue.Alert_HypothermicAnimals>{0}正在失溫</RimDialogue.Alert_HypothermicAnimals>
+  <RimDialogue.Alert_HypothermicAnimals_Stage>{0}的失溫處於{1}階段</RimDialogue.Alert_HypothermicAnimals_Stage>
+  <RimDialogue.Alert_HypothermicAnimals_Outside>當前室外溫度爲{0}</RimDialogue.Alert_HypothermicAnimals_Outside>
+  <RimDialogue.Alert_HypothermicAnimals_ComfortRange>{0}的舒適溫度範圍是{1}</RimDialogue.Alert_HypothermicAnimals_ComfortRange>
+  <RimDialogue.Alert_HypothermicAnimals_LifeThreatening>{0}的失溫程度是{1}。</RimDialogue.Alert_HypothermicAnimals_LifeThreatening>
+  <RimDialogue.Alert_IdeoBuildingDisrespected>{0}的符號受到了褻瀆</RimDialogue.Alert_IdeoBuildingDisrespected>
+  <RimDialogue.Alert_IdeoBuildingDisrespected_Explanation>{0}的符號需要{1}。</RimDialogue.Alert_IdeoBuildingDisrespected_Explanation>
+  <RimDialogue.Alert_IdeoBuildingMissing>我們需要一個{0}的符號。</RimDialogue.Alert_IdeoBuildingMissing>
+  <RimDialogue.Alert_LowFood>殖民地食物不足</RimDialogue.Alert_LowFood>
+  <RimDialogue.Alert_LowFood_Animals>以下動物可供狩獵：{0}</RimDialogue.Alert_LowFood_Animals>
+  <RimDialogue.Alert_LowFood_Harvestable>以下食物來源可供採集：{0}</RimDialogue.Alert_LowFood_Harvestable>
+  <RimDialogue.Alert_LowMedicine>殖民地藥品不足</RimDialogue.Alert_LowMedicine>
+  <RimDialogue.Alert_MajorBreakRisk>{0}有發生嚴重精神崩潰的風險</RimDialogue.Alert_MajorBreakRisk>
+  <RimDialogue.Alert_MajorBreakRisk_ThoughtExplanation>“{0}”對{1}的影響最大。{2}</RimDialogue.Alert_MajorBreakRisk_ThoughtExplanation>
+  <RimDialogue.Alert_MajorBreakRisk_GenericExplanation>{0}感到非常沮喪。</RimDialogue.Alert_MajorBreakRisk_GenericExplanation>
+  <RimDialogue.Alert_MinorBreakRisk>{0}有發生精神崩潰的風險</RimDialogue.Alert_MinorBreakRisk>
+  <RimDialogue.Alert_MinorBreakRisk_ThoughtExplanation>“{0}”對{1}的影響最大。{2}</RimDialogue.Alert_MinorBreakRisk_ThoughtExplanation>
+  <RimDialogue.Alert_MinorBreakRisk_GenericExplanation>{0}情緒低落。</RimDialogue.Alert_MinorBreakRisk_GenericExplanation>
+  <RimDialogue.Alert_NeedColonistBeds>我們需要爲殖民者提供更多牀位</RimDialogue.Alert_NeedColonistBeds>
+  <RimDialogue.Alert_NeedDefenses>我們需要更多防禦工事。</RimDialogue.Alert_NeedDefenses>
+  <RimDialogue.Alert_NeedDefenses_Explanation>殖民地易受攻擊</RimDialogue.Alert_NeedDefenses_Explanation>
+  <RimDialogue.Alert_NeedDoctor>我們需要一名醫生。</RimDialogue.Alert_NeedDoctor>
+  <RimDialogue.Alert_NeedDoctor_Explanation>殖民地沒有任何醫生。</RimDialogue.Alert_NeedDoctor_Explanation>
+  <RimDialogue.Alert_NeedMealSource>我們需要某種烹飪食物的方式</RimDialogue.Alert_NeedMealSource>
+  <RimDialogue.Alert_NeedMealSource_Explanation>殖民地沒有任何烹飪食物的方式。</RimDialogue.Alert_NeedMealSource_Explanation>
+  <RimDialogue.Alert_NeedResearchBench>我們需要一個研究臺</RimDialogue.Alert_NeedResearchBench>
+  <RimDialogue.Alert_NeedResearchBench_Explanation>殖民地沒有任何進行研究的方式。</RimDialogue.Alert_NeedResearchBench_Explanation>
+  <RimDialogue.Alert_NeedResearchProject>我們需要一個研究項目</RimDialogue.Alert_NeedResearchProject>
+  <RimDialogue.Alert_NeedResearchProject_Explanation>殖民地沒有任何研究項目。</RimDialogue.Alert_NeedResearchProject_Explanation>
+  <RimDialogue.Alert_NeedWarmClothes>我們需要保暖衣物</RimDialogue.Alert_NeedWarmClothes>
+  <RimDialogue.Alert_NeedWarmClothes_Explanation>殖民地沒有足夠的保暖衣物，很快就會變冷。</RimDialogue.Alert_NeedWarmClothes_Explanation>
+  <RimDialogue.Alert_NeedJoySources>我們需要快樂來源</RimDialogue.Alert_NeedJoySources>
+  <RimDialogue.Alert_NeedJoySources_Explanation>殖民者感到無聊。他們需要像馬蹄鐵或國際象棋這樣的遊戲來保持娛樂。</RimDialogue.Alert_NeedJoySources_Explanation>
+  <RimDialogue.Alert_QuestExpiresSoon>任務“{0}”即將到期</RimDialogue.Alert_QuestExpiresSoon>
+  <RimDialogue.Alert_StarvationAnimals>動物{0}正在捱餓</RimDialogue.Alert_StarvationAnimals>
+  <RimDialogue.Alert_StarvationColonists>{0}正在捱餓</RimDialogue.Alert_StarvationColonists>
+  <RimDialogue.Alert_UnhappyNudity>{0}對赤身裸體感到不高興</RimDialogue.Alert_UnhappyNudity>
+  <RimDialogue.Alert_LifeThreateningHediff>{0}正遭受危及生命的疾病</RimDialogue.Alert_LifeThreateningHediff>
+  <RimDialogue.Alert_LifeThreateningHediff_Explanation>{0}有以下危急狀況：{1}。</RimDialogue.Alert_LifeThreateningHediff_Explanation>
+  <RimDialogue.Alert_Generic>一條警報</RimDialogue.Alert_Generic>
+  <RimDialogue.LifeThreatening>危及生命</RimDialogue.LifeThreatening>
+  <RimDialogue.NotLifeThreatening>不危及生命</RimDialogue.NotLifeThreatening>
+  
+</LanguageData>
