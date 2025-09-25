@@ -10,11 +10,15 @@
     <li>ProceduralProducts.RimDialogue</li>
 	</loadAfter>
   <description>RimDialogue的中文翻译包，请在本体模组之后加载。最新翻译的RimDialogue版本：v0.91.0 BETA。
-    RimDialogue的中文翻譯包，請在本體模組之後加載。最新翻譯的RimDialogue版本：v0.91.0 BETA。繁體中文版本使用OpenCC轉換，如有錯誤還盼告知。
+    
+RimDialogue是Jaxe优秀的Interaction Bubbles模组的扩展，但它不仅仅是显示系统生成的交互文本，而是将这些交互内容通过大语言模型（LLM）转化为真实的对话。这些对话随后会以气泡形式显示在游戏中每个角色头上。
 
-    ---
+---
 
-    RimDialogue是Jaxe优秀的Interaction Bubbles模组的扩展，但它不仅仅是显示系统生成的交互文本，而是将这些交互内容通过大语言模型（LLM）转化为真实的对话。这些对话随后会以气泡形式显示在游戏中每个角色头上。
-    RimDialogue是Jaxe優秀的Interaction Bubbles模組的擴展，但它不僅僅是顯示系統生成的交互文本，而是將這些交互內容通過大語言模型（LLM）轉化爲真實的對話。這些對話隨後會以氣泡形式顯示在遊戲中每個角色頭上。
+RimDialogue的中文翻譯包，請在本體模組之後加載。最新翻譯的RimDialogue版本：v0.91.0 BETA。
+
+繁體中文版本使用OpenCC轉換，如有錯誤還盼告知。
+
+RimDialogue是Jaxe優秀的Interaction Bubbles模組的擴展，但它不僅僅是顯示系統生成的交互文本，而是將這些交互內容通過大語言模型（LLM）轉化爲真實的對話。這些對話隨後會以氣泡形式顯示在遊戲中每個角色頭上。
   </description>
 </ModMetaData>
